@@ -1,0 +1,849 @@
+﻿CURSO_ACADEMICO,LOCALIDAD,ESTUDIO,TIPO_ESTUDIO,TIPO_EGRESO,SEXO,ALUMNOS_GRADUADOS,ALUMNOS_INTERRUMPEN_ESTUDIOS,ALUMNOS_INTERRUMPEN_EST_ANO1,ALUMNOS_TRASLADAN_OTRA_UNIV,DURACION_MEDIA_GRADUADOS,TASA_EFICIENCIA,FECHA_ACTUALIZACION
+2018,Cartago,Grado: Arquitectura Técnica,Grado,Abandono Voluntario,Hombres,8,5,1,0,,,5/1/2020
+2018,Cartago,Grado: Arquitectura Técnica,Grado,Abandono Voluntario,Mujeres,7,2,0,0,,,5/1/2020
+2018,Cartago,Grado: Arquitectura Técnica,Grado,Graduado,Hombres,10,0,0,0,6.5,71.64,5/1/2020
+2018,Cartago,Grado: Arquitectura Técnica,Grado,Graduado,Mujeres,6,0,0,0,6.75,72.08,5/1/2020
+2018,Cartago,Grado: Ingeniería Civil,Grado,Abandono Voluntario,Hombres,3,13,1,0,,,5/1/2020
+2018,Cartago,Grado: Ingeniería Civil,Grado,Abandono Voluntario,Mujeres,1,3,0,0,,,5/1/2020
+2018,Cartago,Grado: Ingeniería Civil,Grado,Cambio de estudios sin simultaneidad,Mujeres,3,1,0,0,,,5/1/2020
+2018,Cartago,Grado: Ingeniería Civil,Grado,Graduado,Hombres,7,0,0,0,6,83.28,5/1/2020
+2018,Cartago,Grado: Ingeniería Civil,Grado,Graduado,Mujeres,2,0,0,0,7,61.74,5/1/2020
+2018,Cartago,Grado: Ingeniería de Organización Industrial,Grado,Abandono Voluntario,Hombres,4,11,7,0,,,5/1/2020
+2018,Cartago,Grado: Ingeniería de Organización Industrial,Grado,Abandono Voluntario,Mujeres,4,1,1,0,,,5/1/2020
+2018,Cartago,Grado: Ingeniería de Organización Industrial,Grado,Cambio de estudios sin simultaneidad,Hombres,3,1,1,0,,,5/1/2020
+2019,Cartago,Grado: Ingeniería de Organización Industrial,Grado,Graduado,Hombres,17,0,0,0,5,82.87,5/1/2020
+2019,Cartago,Grado: Ingeniería de Organización Industrial,Grado,Graduado,Mujeres,3,0,0,0,4.5,96.3,5/1/2020
+2019,Cartago,Grado: Ingeniería de Organización Industrial,Grado,Incumple Régimen de permanencia,Hombres,0,1,1,0,,,5/1/2020
+2019,Cartago,Grado: Ingeniería Mecatrónica,Grado,Abandono Voluntario,Hombres,0,13,5,0,,,5/1/2020
+2019,Cartago,Grado: Ingeniería Mecatrónica,Grado,Cambio de estudios sin simultaneidad,Hombres,0,5,5,0,,,5/1/2020
+2019,Cartago,Grado: Ingeniería Mecatrónica,Grado,Graduado,Hombres,15,0,0,0,5.07,89.78,5/1/2020
+2019,Cartago,Grado: Ingeniería Mecatrónica,Grado,Graduado,Mujeres,3,0,0,0,4,100,5/1/2020
+2019,Cartago,Grado: Ingeniería Mecatrónica,Grado,Incumple Régimen de permanencia,Hombres,0,1,1,0,,,5/1/2020
+2017,Heredia,Grado: Administración y Dirección de Empresas,Grado,Abandono Voluntario,Hombres,0,28,6,0,,,5/1/2020
+2018,Heredia,Grado: Administración y Dirección de Empresas,Grado,Abandono Voluntario,Mujeres,0,22,3,0,,,5/1/2020
+2018,Heredia,Grado: Administración y Dirección de Empresas,Grado,Cambio de estudios sin simultaneidad,Hombres,0,1,0,0,,,5/1/2020
+2018,Heredia,Grado: Administración y Dirección de Empresas,Grado,Cambio de estudios sin simultaneidad,Mujeres,0,4,4,0,,,5/1/2020
+2018,Heredia,Grado: Administración y Dirección de Empresas,Grado,Graduado,Hombres,23,0,0,0,5.5,77.97,5/1/2020
+2018,Heredia,Grado: Administración y Dirección de Empresas,Grado,Graduado,Mujeres,8,0,0,0,4.67,92.43,5/1/2020
+2018,Heredia,Grado: Administración y Dirección de Empresas,Grado,Incumple Régimen de permanencia,Hombres,0,4,1,0,,,5/1/2020
+2018,Heredia,Grado: Administración y Dirección de Empresas,Grado,Incumple Régimen de permanencia,Mujeres,0,1,1,0,,,5/1/2020
+2018,Heredia,Grado: Ciencias Ambientales,Grado,Abandono Voluntario,Hombres,0,19,6,0,,,5/1/2020
+2018,Heredia,Grado: Ciencias Ambientales,Grado,Abandono Voluntario,Mujeres,0,6,2,0,,,5/1/2020
+2018,Heredia,Grado: Ciencias Ambientales,Grado,Cambio de estudios sin simultaneidad,Hombres,0,5,5,0,,,5/1/2020
+2018,Heredia,Grado: Ciencias Ambientales,Grado,Cambio de estudios sin simultaneidad,Mujeres,0,1,1,0,,,5/1/2020
+2018,Heredia,Grado: Ciencias Ambientales,Grado,Graduado,Hombres,18,0,0,0,5.5,84.8,5/1/2020
+2018,Heredia,Grado: Ciencias Ambientales,Grado,Graduado,Mujeres,12,0,0,0,5.5,81.1,5/1/2020
+2018,Heredia,Grado: Ciencias Ambientales,Grado,Incumple Régimen de permanencia,Hombres,0,1,1,0,,,5/1/2020
+2018,Heredia,Grado: Ciencias Ambientales,Grado,Incumple Régimen de permanencia,Mujeres,0,1,1,0,,,5/1/2020
+2018,Heredia,Grado: Ciencias de la Actividad Física y del Deporte,Grado,Abandono Voluntario,Hombres,0,5,2,0,,,5/1/2020
+2018,Heredia,Grado: Ciencias de la Actividad Física y del Deporte,Grado,Cambio de estudios sin simultaneidad,Hombres,0,1,1,0,,,5/1/2020
+2018,Heredia,Grado: Ciencias de la Actividad Física y del Deporte,Grado,Graduado,Hombres,43,0,0,0,4.41,93.03,5/1/2020
+2018,Heredia,Grado: Ciencias de la Actividad Física y del Deporte,Grado,Graduado,Mujeres,9,0,0,0,4.25,95.4,5/1/2020
+2018,Heredia,Grado: Enfermería,Grado,Abandono Voluntario,Hombres,0,2,1,0,,,5/1/2020
+2018,Heredia,Grado: Enfermería,Grado,Abandono Voluntario,Mujeres,0,1,0,0,,,5/1/2020
+2018,Heredia,Grado: Enfermería,Grado,Cambio de estudios sin simultaneidad,Mujeres,0,1,0,0,,,5/1/2020
+2018,Heredia,Grado: Enfermería,Grado,Graduado,Hombres,8,0,0,0,4.12,95.71,5/1/2020
+2018,Heredia,Grado: Enfermería,Grado,Graduado,Mujeres,44,0,0,0,4,98.08,5/1/2020
+2018,Heredia,Grado: Gestión y Administración Pública,Grado,Abandono Voluntario,Hombres,0,7,6,0,,,5/1/2020
+2018,Heredia,Grado: Gestión y Administración Pública,Grado,Abandono Voluntario,Mujeres,0,8,1,0,,,5/1/2020
+2018,Heredia,Grado: Gestión y Administración Pública,Grado,Cambio de estudios sin simultaneidad,Hombres,0,1,1,0,,,5/1/2020
+2019,Heredia,Grado: Gestión y Administración Pública,Grado,Graduado,Hombres,3,0,0,0,8,78.24,5/1/2020
+2019,Heredia,Grado: Gestión y Administración Pública,Grado,Graduado,Mujeres,3,0,0,0,5,75.32,5/1/2020
+2019,Heredia,Grado: Gestión y Administración Pública,Grado,Incumple Régimen de permanencia,Hombres,0,1,1,0,,,5/1/2020
+2019,Heredia,Grado: Ingeniería Agroalimentaria y del Medio Rural,Grado,Abandono Voluntario,Hombres,0,12,3,0,,,5/1/2020
+2019,Heredia,Grado: Ingeniería Agroalimentaria y del Medio Rural,Grado,Abandono Voluntario,Mujeres,0,4,1,0,,,5/1/2020
+2019,Heredia,Grado: Ingeniería Agroalimentaria y del Medio Rural,Grado,Graduado,Hombres,14,0,0,0,5.09,79.32,5/1/2020
+2019,Heredia,Grado: Ingeniería Agroalimentaria y del Medio Rural,Grado,Graduado,Mujeres,9,0,0,0,5.67,77.05,5/1/2020
+2019,Heredia,Grado: Magisterio en Educación Infantil,Grado,Abandono Voluntario,Hombres,0,6,4,0,,,5/1/2020
+2019,Heredia,Grado: Magisterio en Educación Infantil,Grado,Abandono Voluntario,Mujeres,0,19,6,0,,,5/1/2020
+2019,Heredia,Grado: Magisterio en Educación Infantil,Grado,Cambio de estudios sin simultaneidad,Mujeres,0,2,2,0,,,5/1/2020
+2019,Heredia,Grado: Magisterio en Educación Infantil,Grado,Graduado,Hombres,7,0,0,0,5,84.71,5/1/2020
+2019,Heredia,Grado: Magisterio en Educación Infantil,Grado,Graduado,Mujeres,97,0,0,0,4.37,91.64,5/1/2020
+2019,Heredia,Grado: Magisterio en Educación Primaria,Grado,Abandono Voluntario,Hombres,0,11,6,0,,,5/1/2020
+2019,Heredia,Grado: Magisterio en Educación Primaria,Grado,Abandono Voluntario,Mujeres,0,11,4,0,,,5/1/2020
+2019,Heredia,Grado: Magisterio en Educación Primaria,Grado,Cambio de estudios sin simultaneidad,Hombres,0,2,1,0,,,5/1/2020
+2019,Heredia,Grado: Magisterio en Educación Primaria,Grado,Cambio de estudios sin simultaneidad,Mujeres,0,2,2,0,,,5/1/2020
+2019,Heredia,Grado: Magisterio en Educación Primaria,Grado,Graduado,Hombres,38,0,0,0,4.97,85.03,5/1/2020
+2019,Heredia,Grado: Magisterio en Educación Primaria,Grado,Graduado,Mujeres,35,0,0,0,4.81,90.85,5/1/2020
+2019,Heredia,Grado: Medicina,Grado,Abandono Voluntario,Hombres,0,2,1,0,,,5/1/2020
+2019,Heredia,Grado: Medicina,Grado,Abandono Voluntario,Mujeres,0,1,0,0,,,5/1/2020
+2019,Heredia,Grado: Medicina,Grado,Traslado a otra Universidad,Mujeres,0,0,0,3,,,5/1/2020
+2019,Heredia,Grado: Nutrición Humana y Dietética,Grado,Abandono Voluntario,Hombres,0,2,2,0,,,5/1/2020
+2019,Heredia,Grado: Nutrición Humana y Dietética,Grado,Abandono Voluntario,Mujeres,0,11,3,0,,,5/1/2020
+2019,Heredia,Grado: Nutrición Humana y Dietética,Grado,Cambio de estudios sin simultaneidad,Hombres,0,1,1,0,,,5/1/2020
+2019,Heredia,Grado: Nutrición Humana y Dietética,Grado,Cambio de estudios sin simultaneidad,Mujeres,0,2,2,0,,,5/1/2020
+2019,Heredia,Grado: Nutrición Humana y Dietética,Grado,Graduado,Hombres,9,0,0,0,4.33,94.72,5/1/2020
+2019,Heredia,Grado: Nutrición Humana y Dietética,Grado,Graduado,Mujeres,25,0,0,0,4.75,93.07,5/1/2020
+2019,Heredia,Grado: Nutrición Humana y Dietética,Grado,Traslado a otra Universidad,Mujeres,0,0,0,1,,,5/1/2020
+2019,Heredia,Grado: Odontología,Grado,Abandono Voluntario,Mujeres,0,1,0,0,,,5/1/2020
+2019,Heredia,Grado: Odontología,Grado,Cambio de estudios sin simultaneidad,Mujeres,0,2,2,0,,,5/1/2020
+2019,Heredia,Grado: Odontología,Grado,Graduado,Hombres,8,0,0,0,5.5,98.31,5/1/2020
+2019,Heredia,Grado: Odontología,Grado,Graduado,Mujeres,28,0,0,0,5.11,99.7,5/1/2020
+2019,Heredia,Grado: Odontología,Grado,Traslado a otra Universidad,Hombres,0,0,0,2,,,5/1/2020
+2019,Heredia,Grado: Odontología,Grado,Traslado a otra Universidad,Mujeres,0,0,0,3,,,5/1/2020
+2019,Heredia,Máster: Dirección y planificación del turismo,Máster,Abandono Voluntario,Hombres,0,3,1,0,,,5/1/2020
+2019,Heredia,Máster: Dirección y planificación del turismo,Máster,Abandono Voluntario,Mujeres,0,7,5,0,,,5/1/2020
+2019,Heredia,Máster: Dirección y planificación del turismo,Máster,Graduado,Hombres,2,0,0,0,2.5,75,5/1/2020
+2019,Heredia,Máster: Dirección y planificación del turismo,Máster,Graduado,Mujeres,8,0,0,0,2.5,83.77,5/1/2020
+2019,Heredia,"Máster: Estudios Avanzados sobre el Lenguaje, la Comunicación y sus Patologías",Máster,Abandono Voluntario,Mujeres,0,2,2,0,,,5/1/2020
+2019,Heredia,"Máster: Estudios Avanzados sobre el Lenguaje, la Comunicación y sus Patologías",Máster,Graduado,Hombres,1,0,0,0,1,100,5/1/2020
+2019,Heredia,"Máster: Estudios Avanzados sobre el Lenguaje, la Comunicación y sus Patologías",Máster,Graduado,Mujeres,11,0,0,0,1,100,5/1/2020
+2019,Heredia,Máster: Evaluación y Entrenamiento Físico para la Salud,Máster,Abandono Voluntario,Hombres,0,1,1,0,,,5/1/2020
+2019,Heredia,Máster: Evaluación y Entrenamiento Físico para la Salud,Máster,Abandono Voluntario,Mujeres,0,2,2,0,,,5/1/2020
+2019,Heredia,Máster: Evaluación y Entrenamiento Físico para la Salud,Máster,Graduado,Hombres,8,0,0,0,1,100,5/1/2020
+2019,Heredia,Máster: Evaluación y Entrenamiento Físico para la Salud,Máster,Graduado,Mujeres,2,0,0,0,1,100,5/1/2020
+2019,Heredia,Máster: Ingeniería Agronómica,Máster,Graduado,Hombres,4,0,0,0,2.5,89.92,5/1/2020
+2019,Heredia,"Máster: Profesorado E.S.O., F.P. y Ens. Idiom, Art y Deport",Máster,Graduado,Hombres,13,0,0,0,1.54,95.47,5/1/2020
+2019,Heredia,"Máster: Profesorado E.S.O., F.P. y Ens. Idiom, Art y Deport",Máster,Graduado,Mujeres,8,0,0,0,1.12,100,5/1/2020
+2017,San Jos�,Grado: Administración y Dirección de Empresas,Grado,Abandono Voluntario,Hombres,0,8,4,0,,,5/1/2020
+2017,San Jos�,Grado: Administración y Dirección de Empresas,Grado,Abandono Voluntario,Mujeres,0,4,1,0,,,5/1/2020
+2017,San Jos�,Grado: Administración y Dirección de Empresas,Grado,Graduado,Hombres,8,0,0,0,5.57,84.28,5/1/2020
+2017,San Jos�,Grado: Administración y Dirección de Empresas,Grado,Graduado,Mujeres,12,0,0,0,5.42,95.7,5/1/2020
+2017,San Jos�,Grado: Bellas Artes,Grado,Abandono Voluntario,Hombres,0,7,0,0,,,5/1/2020
+2017,San Jos�,Grado: Bellas Artes,Grado,Abandono Voluntario,Mujeres,0,7,2,0,,,5/1/2020
+2017,San Jos�,Grado: Bellas Artes,Grado,Graduado,Hombres,3,0,0,0,6.5,72.45,5/1/2020
+2017,San Jos�,Grado: Bellas Artes,Grado,Graduado,Mujeres,26,0,0,0,4.55,96.05,5/1/2020
+2017,San Jos�,Grado: Bellas Artes,Grado,Traslado a otra Universidad,Mujeres,0,0,0,1,,,5/1/2020
+2017,San Jos�,Grado: Enfermería,Grado,Abandono Voluntario,Hombres,0,1,0,0,,,5/1/2020
+2017,San Jos�,Grado: Enfermería,Grado,Abandono Voluntario,Mujeres,0,1,1,0,,,5/1/2020
+2017,San Jos�,Grado: Enfermería,Grado,Graduado,Hombres,4,0,0,0,4.33,86.75,5/1/2020
+2017,San Jos�,Grado: Enfermería,Grado,Graduado,Mujeres,12,0,0,0,4.1,98.84,5/1/2020
+2017,San Jos�,Grado: Enfermería,Grado,Traslado a otra Universidad,Mujeres,0,0,0,2,,,5/1/2020
+2017,San Jos�,Grado: Ingeniería Electrónica y Automática,Grado,Abandono Voluntario,Hombres,0,2,0,0,,,5/1/2020
+2017,San Jos�,Grado: Ingeniería Electrónica y Automática,Grado,Abandono Voluntario,Mujeres,0,1,0,0,,,5/1/2020
+2017,San Jos�,Grado: Ingeniería Electrónica y Automática,Grado,Cambio de estudios sin simultaneidad,Hombres,0,1,0,0,,,5/1/2020
+2017,San Jos�,Grado: Ingeniería Electrónica y Automática,Grado,Graduado,Hombres,14,0,0,0,5.5,85.98,5/1/2020
+2017,San Jos�,Grado: Ingeniería Electrónica y Automática,Grado,Graduado,Mujeres,3,0,0,0,5.33,84.56,5/1/2020
+2017,San Jos�,Grado: Ingeniería Electrónica y Automática,Grado,Incumple Régimen de permanencia,Hombres,0,1,0,0,,,5/1/2020
+2017,San Jos�,Grado: Ingeniería Informática,Grado,Abandono Voluntario,Hombres,0,6,2,0,,,5/1/2020
+2017,San Jos�,Grado: Ingeniería Informática,Grado,Cambio de estudios sin simultaneidad,Hombres,0,4,4,0,,,5/1/2020
+2017,San Jos�,Grado: Ingeniería Informática,Grado,Graduado,Hombres,6,0,0,0,6,79.5,5/1/2020
+2017,San Jos�,Grado: Ingeniería Informática,Grado,Traslado a otra Universidad,Hombres,0,0,0,3,,,5/1/2020
+2017,San Jos�,Grado: Magisterio en Educación Infantil,Grado,Abandono Voluntario,Hombres,0,4,1,0,,,5/1/2020
+2017,San Jos�,Grado: Magisterio en Educación Infantil,Grado,Abandono Voluntario,Mujeres,0,11,0,0,,,5/1/2020
+2017,San Jos�,Grado: Magisterio en Educación Infantil,Grado,Cambio de estudios sin simultaneidad,Mujeres,0,1,1,0,,,5/1/2020
+2017,San Jos�,Grado: Magisterio en Educación Infantil,Grado,Graduado,Hombres,3,0,0,0,4.5,88.56,5/1/2020
+2017,San Jos�,Grado: Magisterio en Educación Infantil,Grado,Graduado,Mujeres,65,0,0,0,4.52,90.71,5/1/2020
+2017,San Jos�,Grado: Magisterio en Educación Infantil,Grado,Traslado a otra Universidad,Hombres,0,0,0,1,,,5/1/2020
+2017,San Jos�,Grado: Magisterio en Educación Infantil,Grado,Traslado a otra Universidad,Mujeres,0,0,0,4,,,5/1/2020
+2017,San Jos�,Grado: Magisterio en Educación Primaria,Grado,Abandono Voluntario,Hombres,0,15,3,0,,,5/1/2020
+2018,San Jos�,Grado: Magisterio en Educación Primaria,Grado,Abandono Voluntario,Mujeres,0,9,4,0,,,5/1/2020
+2018,San Jos�,Grado: Magisterio en Educación Primaria,Grado,Cambio de estudios sin simultaneidad,Hombres,0,3,2,0,,,5/1/2020
+2018,San Jos�,Grado: Magisterio en Educación Primaria,Grado,Cambio de estudios sin simultaneidad,Mujeres,0,1,1,0,,,5/1/2020
+2018,San Jos�,Grado: Magisterio en Educación Primaria,Grado,Graduado,Hombres,19,0,0,0,5.16,86.33,5/1/2020
+2018,San Jos�,Grado: Magisterio en Educación Primaria,Grado,Graduado,Mujeres,39,0,0,0,4.44,89.91,5/1/2020
+2018,San Jos�,Grado: Magisterio en Educación Primaria,Grado,Incumple Régimen de permanencia,Hombres,0,2,2,0,,,5/1/2020
+2018,San Jos�,Grado: Magisterio en Educación Primaria,Grado,Traslado a otra Universidad,Mujeres,0,0,0,1,,,5/1/2020
+2018,San Jos�,Grado: Psicología,Grado,Abandono Voluntario,Hombres,0,3,0,0,,,5/1/2020
+2018,San Jos�,Grado: Psicología,Grado,Abandono Voluntario,Mujeres,0,2,1,0,,,5/1/2020
+2018,San Jos�,Grado: Psicología,Grado,Cambio de estudios sin simultaneidad,Hombres,0,2,1,0,,,5/1/2020
+2018,San Jos�,Grado: Psicología,Grado,Cambio de estudios sin simultaneidad,Mujeres,0,2,2,0,,,5/1/2020
+2018,San Jos�,Grado: Psicología,Grado,Graduado,Hombres,5,0,0,0,4.8,90.99,5/1/2020
+2018,San Jos�,Grado: Psicología,Grado,Graduado,Mujeres,61,0,0,0,4.24,93.38,5/1/2020
+2018,San Jos�,Grado: Psicología,Grado,Incumple Régimen de permanencia,Hombres,0,1,0,0,,,5/1/2020
+2018,San Jos�,Grado: Psicología,Grado,Traslado a otra Universidad,Hombres,0,0,0,2,,,5/1/2020
+2018,San Jos�,Grado: Psicología,Grado,Traslado a otra Universidad,Mujeres,0,0,0,2,,,5/1/2020
+2018,San Jos�,Licenciado en Ciencias del Trabajo,Licenciatura o equivalente,Abandono Voluntario,Mujeres,0,1,0,0,,,5/1/2020
+2018,San Jos�,Licenciado en Ciencias del Trabajo,Licenciatura o equivalente,Incumple Régimen de permanencia,Mujeres,0,1,0,0,,,5/1/2020
+2018,San Jos�,"Máster: Profesorado E.S.O., F.P. y Ens. Idiom, Art y Deport",Máster,Graduado,Hombres,2,0,0,0,1,100,5/1/2020
+2018,San Jos�,"Máster: Profesorado E.S.O., F.P. y Ens. Idiom, Art y Deport",Máster,Graduado,Mujeres,16,0,0,0,1,100,5/1/2020
+2018,San Jos�,Máster: Psicología General Sanitaria,Máster,Graduado,Hombres,8,0,0,0,2,100,5/1/2020
+2018,San Jos�,Máster: Psicología General Sanitaria,Máster,Graduado,Mujeres,23,0,0,0,2.13,98.15,5/1/2020
+2018,Alajuela,Bioquímica,Licenciatura o equivalente,Abandono Voluntario,Hombres,0,1,0,0,,,5/1/2020
+2018,Alajuela,Bioquímica,Licenciatura o equivalente,Abandono Voluntario,Mujeres,0,1,0,0,,,5/1/2020
+2018,Alajuela,Derecho,Licenciatura o equivalente,Abandono Voluntario,Hombres,0,5,0,0,,,5/1/2020
+2018,Alajuela,Derecho,Licenciatura o equivalente,Abandono Voluntario,Mujeres,0,8,0,0,,,5/1/2020
+2018,Alajuela,Derecho,Licenciatura o equivalente,Traslado a otra Universidad,Hombres,0,0,0,7,,,5/1/2020
+2018,Alajuela,Derecho,Licenciatura o equivalente,Traslado a otra Universidad,Mujeres,0,0,0,4,,,5/1/2020
+2018,Alajuela,Diplomado Ciencias Empresariales,Diplomatura o equivalente,Traslado a otra Universidad,Hombres,0,0,0,3,,,5/1/2020
+2018,Alajuela,Diplomado en Turismo,Diplomatura o equivalente,Graduado,Mujeres,2,0,0,0,13,91.15,5/1/2020
+2018,Alajuela,Doctorado: Bioquímica y biología molecular [RD 1393/2007],Doctorado,Graduado,Hombres,1,0,0,0,2.53,,5/1/2020
+2018,Alajuela,"Doctorado: Calidad, seguridad y tecnología de los alimentos [RD 1393/2007]",Doctorado,Graduado,Mujeres,1,0,0,0,1.98,,5/1/2020
+2018,Alajuela,Doctorado: Ciencias de la antigüedad [RD 1393/2007],Doctorado,Graduado,Hombres,1,0,0,0,1.54,,5/1/2020
+2018,Alajuela,Doctorado: Derecho [RD 1393/2007],Doctorado,Abandono Voluntario,Hombres,0,1,0,0,,,5/1/2020
+2018,Alajuela,Doctorado: Derecho [RD 1393/2007],Doctorado,Abandono Voluntario,Mujeres,0,1,0,0,,,5/1/2020
+2018,Alajuela,Doctorado: Derecho [RD 1393/2007],Doctorado,Graduado,Hombres,1,0,0,0,0.9,,5/1/2020
+2018,Alajuela,Doctorado: Educación [RD 1393/2007],Doctorado,Graduado,Hombres,1,0,0,0,4.53,,5/1/2020
+2018,Alajuela,Doctorado: Geología [RD 1393/2007],Doctorado,Graduado,Hombres,1,0,0,0,0.31,,5/1/2020
+2018,Alajuela,Doctorado: Historia del arte [RD 1393/2007],Doctorado,Abandono Voluntario,Mujeres,0,1,0,0,,,5/1/2020
+2018,Alajuela,Doctorado: Historia moderna [RD 1393/2007],Doctorado,Graduado,Mujeres,1,0,0,0,0.37,,5/1/2020
+2018,Alajuela,Doctorado: Ingeniería química y del medio ambiente [RD 1393/2007],Doctorado,Graduado,Mujeres,1,0,0,0,0.46,,5/1/2020
+2018,Alajuela,Doctorado: Medicina [RD 1393/2007],Doctorado,Graduado,Mujeres,2,0,0,0,0.25,,5/1/2020
+2018,Alajuela,Doctorado: Medicina y sanidad animal [RD 1393/2007],Doctorado,Abandono Voluntario,Hombres,0,1,0,0,,,5/1/2020
+2018,Alajuela,Doctorado: Medicina y sanidad animal [RD 1393/2007],Doctorado,Abandono Voluntario,Mujeres,0,2,0,0,,,5/1/2020
+2018,Alajuela,Doctorado: PD Bioquímica y biología molecular [RD 99/2011],Doctorado,Abandono Voluntario,Hombres,0,1,0,0,,,5/1/2020
+2018,Alajuela,Doctorado: PD Bioquímica y biología molecular [RD 99/2011],Doctorado,Abandono Voluntario,Mujeres,0,2,0,0,,,5/1/2020
+2018,Alajuela,Doctorado: PD Bioquímica y biología molecular [RD 99/2011],Doctorado,Graduado,Hombres,2,0,0,0,3.87,,5/1/2020
+2018,Alajuela,Doctorado: PD Bioquímica y biología molecular [RD 99/2011],Doctorado,Graduado,Mujeres,6,0,0,0,2.95,,5/1/2020
+2018,Alajuela,"Doctorado: PD Calidad, seguridad y tecnología de los alimentos [RD 99/2011]",Doctorado,Graduado,Hombres,2,0,0,0,2.92,,5/1/2020
+2018,Alajuela,Doctorado: PD Ciencia analítica en química [RD 99/2011],Doctorado,Abandono Voluntario,Hombres,0,1,0,0,,,5/1/2020
+2018,Alajuela,Doctorado: PD Ciencia analítica en química [RD 99/2011],Doctorado,Graduado,Mujeres,3,0,0,0,2.01,,5/1/2020
+2018,Alajuela,Doctorado: PD Ciencia analítica en química [RD 99/2011],Doctorado,Incumple Régimen de permanencia,Hombres,0,1,0,0,,,5/1/2020
+2018,Alajuela,Doctorado: PD Ciencias agrarias y del medio natural [RD 99/2011],Doctorado,Graduado,Hombres,5,0,0,0,2.79,,5/1/2020
+2018,Alajuela,Doctorado: PD Ciencias agrarias y del medio natural [RD 99/2011],Doctorado,Graduado,Mujeres,2,0,0,0,2.91,,5/1/2020
+2018,Alajuela,Doctorado: PD Ciencias biomédicas y biotecnológicas [RD 99/2011],Doctorado,Graduado,Mujeres,3,0,0,0,1.24,,5/1/2020
+2018,Alajuela,Doctorado: PD Ciencias de la antigüedad [RD 99/2011],Doctorado,Cambio de estudios sin simultaneidad,Hombres,0,1,0,0,,,5/1/2020
+2018,Alajuela,Doctorado: PD Ciencias de la antigüedad [RD 99/2011],Doctorado,Graduado,Hombres,4,0,0,0,2.69,,5/1/2020
+2018,Alajuela,Doctorado: PD Ciencias de la antigüedad [RD 99/2011],Doctorado,Graduado,Mujeres,2,0,0,0,1.28,,5/1/2020
+2018,Alajuela,Doctorado: PD Ciencias de la antigüedad [RD 99/2011],Doctorado,Incumple Régimen de permanencia,Hombres,0,2,0,0,,,5/1/2020
+2018,Alajuela,Doctorado: PD Ciencias de la antigüedad [RD 99/2011],Doctorado,Incumple Régimen de permanencia,Mujeres,0,1,0,0,,,5/1/2020
+2018,Alajuela,Doctorado: PD Ciencias de la salud y del deporte [RD 99/2011],Doctorado,Abandono Voluntario,Hombres,0,1,0,0,,,5/1/2020
+2018,Alajuela,Doctorado: PD Ciencias de la salud y del deporte [RD 99/2011],Doctorado,Abandono Voluntario,Mujeres,0,3,0,0,,,5/1/2020
+2018,Alajuela,Doctorado: PD Ciencias de la salud y del deporte [RD 99/2011],Doctorado,Graduado,Hombres,3,0,0,0,2.35,,5/1/2020
+2018,Alajuela,Doctorado: PD Ciencias de la salud y del deporte [RD 99/2011],Doctorado,Graduado,Mujeres,4,0,0,0,2.94,,5/1/2020
+2018,Alajuela,Doctorado: PD Ciencias de la salud y del deporte [RD 99/2011],Doctorado,Incumple Régimen de permanencia,Hombres,0,1,0,0,,,5/1/2020
+2018,Alajuela,Doctorado: PD Ciencias de la salud y del deporte [RD 99/2011],Doctorado,Incumple Régimen de permanencia,Mujeres,0,5,0,0,,,5/1/2020
+2018,Alajuela,Doctorado: PD Contabilidad y finanzas [RD 99/2011],Doctorado,Abandono Voluntario,Hombres,0,1,0,0,,,5/1/2020
+2018,Alajuela,Doctorado: PD Contabilidad y finanzas [RD 99/2011],Doctorado,Abandono Voluntario,Mujeres,0,1,0,0,,,5/1/2020
+2018,Alajuela,Doctorado: PD Contabilidad y finanzas [RD 99/2011],Doctorado,Graduado,Hombres,1,0,0,0,2.87,,5/1/2020
+2018,Alajuela,Doctorado: PD Contabilidad y finanzas [RD 99/2011],Doctorado,Graduado,Mujeres,2,0,0,0,2.02,,5/1/2020
+2018,Alajuela,Doctorado: PD Contabilidad y finanzas [RD 99/2011],Doctorado,Incumple Régimen de permanencia,Hombres,0,3,0,0,,,5/1/2020
+2018,Alajuela,Doctorado: PD Derecho [RD 99/2011],Doctorado,Abandono Voluntario,Mujeres,0,1,0,0,,,5/1/2020
+2018,Alajuela,Doctorado: PD Derecho [RD 99/2011],Doctorado,Graduado,Hombres,2,0,0,0,4.34,,5/1/2020
+2018,Alajuela,Doctorado: PD Derecho [RD 99/2011],Doctorado,Graduado,Mujeres,3,0,0,0,2.23,,5/1/2020
+2018,Alajuela,Doctorado: PD Derecho [RD 99/2011],Doctorado,Incumple Régimen de permanencia,Hombres,0,9,0,0,,,5/1/2020
+2018,Alajuela,Doctorado: PD Derecho [RD 99/2011],Doctorado,Incumple Régimen de permanencia,Mujeres,0,7,0,0,,,5/1/2020
+2018,Alajuela,Doctorado: PD Derechos humanos y libertades fundamentales [RD 99/2011],Doctorado,Graduado,Hombres,2,0,0,0,2.6,,5/1/2020
+2018,Alajuela,Doctorado: PD Derechos humanos y libertades fundamentales [RD 99/2011],Doctorado,Incumple Régimen de permanencia,Mujeres,0,2,0,0,,,5/1/2020
+2018,Alajuela,Doctorado: PD Economía [RD 99/2011],Doctorado,Abandono Voluntario,Hombres,0,1,0,0,,,5/1/2020
+2018,Alajuela,Doctorado: PD Economía [RD 99/2011],Doctorado,Graduado,Hombres,2,0,0,0,4.13,,5/1/2020
+2018,Alajuela,Doctorado: PD Economía [RD 99/2011],Doctorado,Incumple Régimen de permanencia,Hombres,0,2,0,0,,,5/1/2020
+2018,Alajuela,Doctorado: PD Economía [RD 99/2011],Doctorado,Incumple Régimen de permanencia,Mujeres,0,1,0,0,,,5/1/2020
+2018,Alajuela,Doctorado: PD Economía y gestión de las organizaciones [RD 99/2011],Doctorado,Abandono Voluntario,Hombres,0,1,0,0,,,5/1/2020
+2018,Alajuela,Doctorado: PD Economía y gestión de las organizaciones [RD 99/2011],Doctorado,Abandono Voluntario,Mujeres,0,1,0,0,,,5/1/2020
+2018,Alajuela,Doctorado: PD Economía y gestión de las organizaciones [RD 99/2011],Doctorado,Graduado,Hombres,1,0,0,0,3.54,,5/1/2020
+2018,Alajuela,Doctorado: PD Economía y gestión de las organizaciones [RD 99/2011],Doctorado,Graduado,Mujeres,2,0,0,0,3.52,,5/1/2020
+2018,Alajuela,Doctorado: PD Economía y gestión de las organizaciones [RD 99/2011],Doctorado,Incumple Régimen de permanencia,Hombres,0,1,0,0,,,5/1/2020
+2018,Alajuela,Doctorado: PD Educación [RD 99/2011],Doctorado,Abandono Voluntario,Mujeres,0,2,0,0,,,5/1/2020
+2018,Alajuela,Doctorado: PD Educación [RD 99/2011],Doctorado,Graduado,Hombres,2,0,0,0,3.2,,5/1/2020
+2018,Alajuela,Doctorado: PD Educación [RD 99/2011],Doctorado,Graduado,Mujeres,1,0,0,0,2.84,,5/1/2020
+2018,Alajuela,Doctorado: PD Educación [RD 99/2011],Doctorado,Incumple Régimen de permanencia,Hombres,0,5,0,0,,,5/1/2020
+2018,Alajuela,Doctorado: PD Educación [RD 99/2011],Doctorado,Incumple Régimen de permanencia,Mujeres,0,3,0,0,,,5/1/2020
+2018,Alajuela,Doctorado: PD Energías renovables y eficiencia energética [RD 99/2011],Doctorado,Abandono Voluntario,Hombres,0,1,0,0,,,5/1/2020
+2018,Alajuela,Doctorado: PD Energías renovables y eficiencia energética [RD 99/2011],Doctorado,Graduado,Hombres,5,0,0,0,2.11,,5/1/2020
+2018,Alajuela,Doctorado: PD Energías renovables y eficiencia energética [RD 99/2011],Doctorado,Graduado,Mujeres,1,0,0,0,2.84,,5/1/2020
+2018,Alajuela,Doctorado: PD Energías renovables y eficiencia energética [RD 99/2011],Doctorado,Incumple Régimen de permanencia,Hombres,0,2,0,0,,,5/1/2020
+2018,Alajuela,Doctorado: PD Estudios ingleses [RD 99/2011],Doctorado,Graduado,Hombres,3,0,0,0,2.69,,5/1/2020
+2018,Alajuela,Doctorado: PD Estudios ingleses [RD 99/2011],Doctorado,Graduado,Mujeres,1,0,0,0,3.55,,5/1/2020
+2018,Alajuela,Doctorado: PD Estudios ingleses [RD 99/2011],Doctorado,Incumple Régimen de permanencia,Mujeres,0,1,0,0,,,5/1/2020
+2018,Alajuela,Doctorado: PD Filosofía [RD 99/2011],Doctorado,Graduado,Hombres,1,0,0,0,3.39,,5/1/2020
+2018,Alajuela,Doctorado: PD Filosofía [RD 99/2011],Doctorado,Graduado,Mujeres,1,0,0,0,3.56,,5/1/2020
+2018,Alajuela,Doctorado: PD Filosofía [RD 99/2011],Doctorado,Incumple Régimen de permanencia,Hombres,0,1,0,0,,,5/1/2020
+2018,Alajuela,Doctorado: PD Filosofía [RD 99/2011],Doctorado,Incumple Régimen de permanencia,Mujeres,0,2,0,0,,,5/1/2020
+2018,Alajuela,Doctorado: PD Física [RD 99/2011],Doctorado,Graduado,Hombres,4,0,0,0,3.66,,5/1/2020
+2018,Alajuela,Doctorado: PD Física [RD 99/2011],Doctorado,Incumple Régimen de permanencia,Hombres,0,3,0,0,,,5/1/2020
+2018,Alajuela,Doctorado: PD Física [RD 99/2011],Doctorado,Incumple Régimen de permanencia,Mujeres,0,1,0,0,,,5/1/2020
+2018,Alajuela,Doctorado: PD Geología [RD 99/2011],Doctorado,Cambio de estudios sin simultaneidad,Mujeres,0,1,0,0,,,5/1/2020
+2018,Alajuela,Doctorado: PD Geología [RD 99/2011],Doctorado,Graduado,Hombres,1,0,0,0,2.18,,5/1/2020
+2018,Alajuela,Doctorado: PD Geología [RD 99/2011],Doctorado,Incumple Régimen de permanencia,Hombres,0,1,0,0,,,5/1/2020
+2018,Alajuela,Doctorado: PD Geología [RD 99/2011],Doctorado,Incumple Régimen de permanencia,Mujeres,0,1,0,0,,,5/1/2020
+2018,Alajuela,Doctorado: PD Historia contemporánea [RD 99/2011],Doctorado,Graduado,Hombres,2,0,0,0,2.58,,5/1/2020
+2018,Alajuela,Doctorado: PD Historia contemporánea [RD 99/2011],Doctorado,Graduado,Mujeres,1,0,0,0,0.63,,5/1/2020
+2018,Alajuela,Doctorado: PD Historia contemporánea [RD 99/2011],Doctorado,Incumple Régimen de permanencia,Mujeres,0,1,0,0,,,5/1/2020
+2018,Alajuela,Doctorado: PD Historia del arte [RD 99/2011],Doctorado,Abandono Voluntario,Mujeres,0,2,0,0,,,5/1/2020
+2018,Alajuela,Doctorado: PD Historia del arte [RD 99/2011],Doctorado,Cambio de estudios sin simultaneidad,Mujeres,0,1,0,0,,,5/1/2020
+2018,Alajuela,Doctorado: PD Historia del arte [RD 99/2011],Doctorado,Graduado,Hombres,2,0,0,0,2.14,,5/1/2020
+2018,Alajuela,Doctorado: PD Historia del arte [RD 99/2011],Doctorado,Graduado,Mujeres,4,0,0,0,1.9,,5/1/2020
+2018,Alajuela,Doctorado: PD Historia del arte [RD 99/2011],Doctorado,Incumple Régimen de permanencia,Mujeres,0,2,0,0,,,5/1/2020
+2018,Alajuela,"Doctorado: PD Historia, sociedad y cultura: épocas medieval y moderna [RD 99/2011]",Doctorado,Graduado,Hombres,1,0,0,0,2.35,,5/1/2020
+2018,Alajuela,"Doctorado: PD Historia, sociedad y cultura: épocas medieval y moderna [RD 99/2011]",Doctorado,Incumple Régimen de permanencia,Hombres,0,1,0,0,,,5/1/2020
+2018,Alajuela,"Doctorado: PD Historia, sociedad y cultura: épocas medieval y moderna [RD 99/2011]",Doctorado,Incumple Régimen de permanencia,Mujeres,0,2,0,0,,,5/1/2020
+2018,Alajuela,Doctorado: PD Información y Comunicación [RD 99/2011],Doctorado,Abandono Voluntario,Hombres,0,2,0,0,,,5/1/2020
+2018,Alajuela,Doctorado: PD Información y Comunicación [RD 99/2011],Doctorado,Graduado,Mujeres,2,0,0,0,2.78,,5/1/2020
+2018,Alajuela,Doctorado: PD Información y Comunicación [RD 99/2011],Doctorado,Incumple Régimen de permanencia,Mujeres,0,2,0,0,,,5/1/2020
+2018,Alajuela,Doctorado: PD Ingeniería biomédica [RD 99/2011],Doctorado,Abandono Voluntario,Hombres,0,2,0,0,,,5/1/2020
+2018,Alajuela,Doctorado: PD Ingeniería biomédica [RD 99/2011],Doctorado,Graduado,Hombres,3,0,0,0,3.08,,5/1/2020
+2018,Alajuela,Doctorado: PD Ingeniería biomédica [RD 99/2011],Doctorado,Graduado,Mujeres,4,0,0,0,3.72,,5/1/2020
+2018,Alajuela,Doctorado: PD Ingeniería de diseño y fabricación [RD 99/2011],Doctorado,Abandono Voluntario,Hombres,0,1,0,0,,,5/1/2020
+2018,Alajuela,Doctorado: PD Ingeniería de diseño y fabricación [RD 99/2011],Doctorado,Graduado,Hombres,2,0,0,0,2.49,,5/1/2020
+2018,Alajuela,Doctorado: PD Ingeniería de diseño y fabricación [RD 99/2011],Doctorado,Incumple Régimen de permanencia,Hombres,0,2,0,0,,,5/1/2020
+2018,Alajuela,Doctorado: PD Ingeniería de sistemas e informática [RD 99/2011],Doctorado,Abandono Voluntario,Hombres,0,2,0,0,,,5/1/2020
+2018,Alajuela,Doctorado: PD Ingeniería de sistemas e informática [RD 99/2011],Doctorado,Abandono Voluntario,Mujeres,0,1,0,0,,,5/1/2020
+2018,Alajuela,Doctorado: PD Ingeniería de sistemas e informática [RD 99/2011],Doctorado,Graduado,Hombres,6,0,0,0,3.5,,5/1/2020
+2018,Alajuela,Doctorado: PD Ingeniería de sistemas e informática [RD 99/2011],Doctorado,Graduado,Mujeres,3,0,0,0,3.82,,5/1/2020
+2018,Alajuela,Doctorado: PD Ingeniería de sistemas e informática [RD 99/2011],Doctorado,Incumple Régimen de permanencia,Hombres,0,1,0,0,,,5/1/2020
+2018,Alajuela,Doctorado: PD Ingeniería de sistemas e informática [RD 99/2011],Doctorado,Incumple Régimen de permanencia,Mujeres,0,1,0,0,,,5/1/2020
+2018,Alajuela,Doctorado: PD Ingeniería electrónica [RD 99/2011],Doctorado,Incumple Régimen de permanencia,Hombres,0,1,0,0,,,5/1/2020
+2018,Alajuela,Doctorado: PD Ingeniería mecánica [RD 99/2011],Doctorado,Abandono Voluntario,Hombres,0,1,0,0,,,5/1/2020
+2018,Alajuela,Doctorado: PD Ingeniería mecánica [RD 99/2011],Doctorado,Graduado,Hombres,3,0,0,0,3.42,,5/1/2020
+2018,Alajuela,Doctorado: PD Ingeniería mecánica [RD 99/2011],Doctorado,Graduado,Mujeres,1,0,0,0,3.5,,5/1/2020
+2018,Alajuela,Doctorado: PD Ingeniería mecánica [RD 99/2011],Doctorado,Incumple Régimen de permanencia,Hombres,0,1,0,0,,,5/1/2020
+2018,Alajuela,Doctorado: PD Ingeniería mecánica [RD 99/2011],Doctorado,Incumple Régimen de permanencia,Mujeres,0,1,0,0,,,5/1/2020
+2018,Alajuela,Doctorado: PD Ingeniería química y del medio ambiente [RD 99/2011],Doctorado,Graduado,Hombres,1,0,0,0,2.5,,5/1/2020
+2018,Alajuela,Doctorado: PD Ingeniería química y del medio ambiente [RD 99/2011],Doctorado,Graduado,Mujeres,7,0,0,0,3.37,,5/1/2020
+2018,Alajuela,Doctorado: PD Ingeniería química y del medio ambiente [RD 99/2011],Doctorado,Incumple Régimen de permanencia,Hombres,0,2,0,0,,,5/1/2020
+2018,Alajuela,Doctorado: PD Ingeniería química y del medio ambiente [RD 99/2011],Doctorado,Incumple Régimen de permanencia,Mujeres,0,2,0,0,,,5/1/2020
+2018,Alajuela,Doctorado: PD Lingüística hispánica [RD 99/2011],Doctorado,Abandono Voluntario,Mujeres,0,2,0,0,,,5/1/2020
+2018,Alajuela,Doctorado: PD Lingüística hispánica [RD 99/2011],Doctorado,Cambio de estudios sin simultaneidad,Hombres,0,1,0,0,,,5/1/2020
+2018,Alajuela,Doctorado: PD Lingüística hispánica [RD 99/2011],Doctorado,Graduado,Hombres,1,0,0,0,3.96,,5/1/2020
+2018,Alajuela,Doctorado: PD Lingüística hispánica [RD 99/2011],Doctorado,Graduado,Mujeres,3,0,0,0,3.11,,5/1/2020
+2018,Alajuela,Doctorado: PD Lingüística hispánica [RD 99/2011],Doctorado,Incumple Régimen de permanencia,Hombres,0,1,0,0,,,5/1/2020
+2018,Alajuela,Doctorado: PD Lingüística hispánica [RD 99/2011],Doctorado,Incumple Régimen de permanencia,Mujeres,0,2,0,0,,,5/1/2020
+2018,Alajuela,Doctorado: PD Literaturas hispánicas [RD 99/2011],Doctorado,Abandono Voluntario,Mujeres,0,1,0,0,,,5/1/2020
+2018,Alajuela,Doctorado: PD Literaturas hispánicas [RD 99/2011],Doctorado,Graduado,Mujeres,2,0,0,0,1.69,,5/1/2020
+2018,Alajuela,Doctorado: PD Literaturas hispánicas [RD 99/2011],Doctorado,Incumple Régimen de permanencia,Hombres,0,1,0,0,,,5/1/2020
+2018,Alajuela,Doctorado: PD Literaturas hispánicas [RD 99/2011],Doctorado,Incumple Régimen de permanencia,Mujeres,0,2,0,0,,,5/1/2020
+2018,Alajuela,Doctorado: PD Matemáticas y estadística [RD 99/2011],Doctorado,Graduado,Hombres,2,0,0,0,3.88,,5/1/2020
+2018,Alajuela,Doctorado: PD Matemáticas y estadística [RD 99/2011],Doctorado,Graduado,Mujeres,2,0,0,0,3.56,,5/1/2020
+2018,Alajuela,Doctorado: PD Mecánica de fluídos [RD 99/2011],Doctorado,Incumple Régimen de permanencia,Hombres,0,1,0,0,,,5/1/2020
+2018,Alajuela,Doctorado: PD Medicina [RD 99/2011],Doctorado,Abandono Voluntario,Hombres,0,1,0,0,,,5/1/2020
+2018,Alajuela,Doctorado: PD Medicina [RD 99/2011],Doctorado,Abandono Voluntario,Mujeres,0,1,0,0,,,5/1/2020
+2018,Alajuela,Doctorado: PD Medicina [RD 99/2011],Doctorado,Graduado,Hombres,4,0,0,0,3.35,,5/1/2020
+2018,Alajuela,Doctorado: PD Medicina [RD 99/2011],Doctorado,Graduado,Mujeres,29,0,0,0,3.23,,5/1/2020
+2018,Alajuela,Doctorado: PD Medicina [RD 99/2011],Doctorado,Incumple Régimen de permanencia,Hombres,0,5,0,0,,,5/1/2020
+2018,Alajuela,Doctorado: PD Medicina [RD 99/2011],Doctorado,Incumple Régimen de permanencia,Mujeres,0,7,0,0,,,5/1/2020
+2018,Alajuela,Doctorado: PD Medicina y sanidad animal [RD 99/2011],Doctorado,Graduado,Hombres,4,0,0,0,1.08,,5/1/2020
+2018,Alajuela,Doctorado: PD Medicina y sanidad animal [RD 99/2011],Doctorado,Graduado,Mujeres,6,0,0,0,1.4,,5/1/2020
+2018,Alajuela,Doctorado: PD Medicina y sanidad animal [RD 99/2011],Doctorado,Incumple Régimen de permanencia,Hombres,0,1,0,0,,,5/1/2020
+2018,Alajuela,Doctorado: PD Medicina y sanidad animal [RD 99/2011],Doctorado,Incumple Régimen de permanencia,Mujeres,0,3,0,0,,,5/1/2020
+2018,Alajuela,Doctorado: PD Nuevos territorios en la arquitectura [RD 99/2011],Doctorado,Abandono Voluntario,Mujeres,0,1,0,0,,,5/1/2020
+2018,Alajuela,Doctorado: PD Nuevos territorios en la arquitectura [RD 99/2011],Doctorado,Graduado,Hombres,2,0,0,0,3.36,,5/1/2020
+2018,Alajuela,Doctorado: PD Ordenación del territorio y medio ambiente [RD 99/2011],Doctorado,Abandono Voluntario,Hombres,0,1,0,0,,,5/1/2020
+2018,Alajuela,Doctorado: PD Ordenación del territorio y medio ambiente [RD 99/2011],Doctorado,Abandono Voluntario,Mujeres,0,1,0,0,,,5/1/2020
+2018,Alajuela,Doctorado: PD Ordenación del territorio y medio ambiente [RD 99/2011],Doctorado,Graduado,Mujeres,1,0,0,0,3.92,,5/1/2020
+2018,Alajuela,Doctorado: PD Ordenación del territorio y medio ambiente [RD 99/2011],Doctorado,Incumple Régimen de permanencia,Hombres,0,1,0,0,,,5/1/2020
+2018,Alajuela,Doctorado: PD Ordenación del territorio y medio ambiente [RD 99/2011],Doctorado,Incumple Régimen de permanencia,Mujeres,0,1,0,0,,,5/1/2020
+2018,Alajuela,"Doctorado: PD Patrimonio, Sociedades y Espacios de Frontera [RD 99/2011]",Doctorado,Incumple Régimen de permanencia,Mujeres,0,1,0,0,,,5/1/2020
+2018,Alajuela,Doctorado: PD Producción animal [RD 99/2011],Doctorado,Graduado,Hombres,2,0,0,0,2.32,,5/1/2020
+2018,Alajuela,Doctorado: PD Producción animal [RD 99/2011],Doctorado,Graduado,Mujeres,2,0,0,0,3.66,,5/1/2020
+2018,Alajuela,Doctorado: PD Química física [RD 99/2011],Doctorado,Graduado,Hombres,2,0,0,0,3.74,,5/1/2020
+2018,Alajuela,Doctorado: PD Química inorgánica [RD 99/2011],Doctorado,Graduado,Hombres,3,0,0,0,2.82,,5/1/2020
+2018,Alajuela,Doctorado: PD Química inorgánica [RD 99/2011],Doctorado,Graduado,Mujeres,3,0,0,0,1.6,,5/1/2020
+2018,Alajuela,Doctorado: PD Química inorgánica [RD 99/2011],Doctorado,Incumple Régimen de permanencia,Hombres,0,1,0,0,,,5/1/2020
+2018,Alajuela,Doctorado: PD Química orgánica [RD 99/2011],Doctorado,Graduado,Hombres,3,0,0,0,3.74,,5/1/2020
+2018,Alajuela,Doctorado: PD Química orgánica [RD 99/2011],Doctorado,Graduado,Mujeres,2,0,0,0,4,,5/1/2020
+2018,Alajuela,Doctorado: PD Química orgánica [RD 99/2011],Doctorado,Incumple Régimen de permanencia,Hombres,0,1,0,0,,,5/1/2020
+2018,Alajuela,Doctorado: PD Relaciones de género y estudios feministas [RD 99/2011],Doctorado,Incumple Régimen de permanencia,Mujeres,0,2,0,0,,,5/1/2020
+2018,Alajuela,Doctorado: PD Sociología de las políticas públicas y sociales [RD 99/2011],Doctorado,Graduado,Hombres,1,0,0,0,4.47,,5/1/2020
+2018,Alajuela,Doctorado: PD Sociología de las políticas públicas y sociales [RD 99/2011],Doctorado,Graduado,Mujeres,1,0,0,0,4.29,,5/1/2020
+2018,Alajuela,Doctorado: PD Sociología de las políticas públicas y sociales [RD 99/2011],Doctorado,Incumple Régimen de permanencia,Hombres,0,4,0,0,,,5/1/2020
+2018,Alajuela,Doctorado: PD Sociología de las políticas públicas y sociales [RD 99/2011],Doctorado,Incumple Régimen de permanencia,Mujeres,0,4,0,0,,,5/1/2020
+2018,Alajuela,Doctorado: Sociología de las políticas públicas y sociales [RD 1393/2007],Doctorado,Graduado,Mujeres,1,0,0,0,2.36,,5/1/2020
+2018,Alajuela,Enfermería,Diplomatura o equivalente,Traslado a otra Universidad,Mujeres,0,0,0,1,,,5/1/2020
+2018,Alajuela,Estadística,Diplomatura o equivalente,Traslado a otra Universidad,Hombres,0,0,0,2,,,5/1/2020
+2018,Alajuela,Estadística,Diplomatura o equivalente,Traslado a otra Universidad,Mujeres,0,0,0,1,,,5/1/2020
+2018,Alajuela,Filología Hispánica,Licenciatura o equivalente,Abandono Voluntario,Hombres,0,1,0,0,,,5/1/2020
+2018,Alajuela,Filología Hispánica,Licenciatura o equivalente,Abandono Voluntario,Mujeres,0,2,0,0,,,5/1/2020
+2018,Alajuela,Filología Hispánica,Licenciatura o equivalente,Traslado a otra Universidad,Hombres,0,0,0,1,,,5/1/2020
+2018,Alajuela,Filología Hispánica,Licenciatura o equivalente,Traslado a otra Universidad,Mujeres,0,0,0,1,,,5/1/2020
+2018,Alajuela,Filología Inglesa,Licenciatura o equivalente,Abandono Voluntario,Hombres,0,1,0,0,,,5/1/2020
+2018,Alajuela,Filología Inglesa,Licenciatura o equivalente,Abandono Voluntario,Mujeres,0,2,0,0,,,5/1/2020
+2018,Alajuela,Filología Inglesa,Licenciatura o equivalente,Traslado a otra Universidad,Mujeres,0,0,0,3,,,5/1/2020
+2018,Alajuela,Geografía,Licenciatura o equivalente,Abandono Voluntario,Mujeres,0,1,0,0,,,5/1/2020
+2018,Alajuela,Grado: Administración y Dirección de Empresas,Grado,Abandono Voluntario,Hombres,0,80,24,0,,,5/1/2020
+2018,Alajuela,Grado: Administración y Dirección de Empresas,Grado,Abandono Voluntario,Mujeres,0,53,17,0,,,5/1/2020
+2018,Alajuela,Grado: Administración y Dirección de Empresas,Grado,Cambio de estudios sin simultaneidad,Hombres,0,17,12,0,,,5/1/2020
+2018,Alajuela,Grado: Administración y Dirección de Empresas,Grado,Cambio de estudios sin simultaneidad,Mujeres,0,9,8,0,,,5/1/2020
+2018,Alajuela,Grado: Administración y Dirección de Empresas,Grado,Graduado,Hombres,137,0,0,0,5.25,88.23,5/1/2020
+2018,Alajuela,Grado: Administración y Dirección de Empresas,Grado,Graduado,Mujeres,159,0,0,0,5.4,90.86,5/1/2020
+2018,Alajuela,Grado: Administración y Dirección de Empresas,Grado,Incumple Régimen de permanencia,Hombres,0,19,12,0,,,5/1/2020
+2018,Alajuela,Grado: Administración y Dirección de Empresas,Grado,Incumple Régimen de permanencia,Mujeres,0,5,1,0,,,5/1/2020
+2018,Alajuela,Grado: Administración y Dirección de Empresas,Grado,Traslado a otra Universidad,Hombres,0,0,0,14,,,5/1/2020
+2018,Alajuela,Grado: Administración y Dirección de Empresas,Grado,Traslado a otra Universidad,Mujeres,0,0,0,13,,,5/1/2020
+2018,Alajuela,Grado: Biotecnología,Grado,Cambio de estudios sin simultaneidad,Mujeres,0,1,1,0,,,5/1/2020
+2018,Alajuela,Grado: Biotecnología,Grado,Graduado,Hombres,19,0,0,0,4.06,96.43,5/1/2020
+2018,Alajuela,Grado: Biotecnología,Grado,Graduado,Mujeres,44,0,0,0,4.13,98.66,5/1/2020
+2018,Alajuela,Grado: Biotecnología,Grado,Incumple Régimen de permanencia,Hombres,0,1,1,0,,,5/1/2020
+2018,Alajuela,Grado: Biotecnología,Grado,Incumple Régimen de permanencia,Mujeres,0,1,1,0,,,5/1/2020
+2018,Alajuela,Grado: Biotecnología,Grado,Traslado a otra Universidad,Mujeres,0,0,0,1,,,5/1/2020
+2018,Alajuela,Grado: Ciencia y Tecnología de los Alimentos,Grado,Abandono Voluntario,Hombres,0,1,1,0,,,5/1/2020
+2018,Alajuela,Grado: Ciencia y Tecnología de los Alimentos,Grado,Abandono Voluntario,Mujeres,0,3,1,0,,,5/1/2020
+2018,Alajuela,Grado: Ciencia y Tecnología de los Alimentos,Grado,Cambio de estudios sin simultaneidad,Hombres,0,1,1,0,,,5/1/2020
+2018,Alajuela,Grado: Ciencia y Tecnología de los Alimentos,Grado,Cambio de estudios sin simultaneidad,Mujeres,0,4,4,0,,,5/1/2020
+2018,Alajuela,Grado: Ciencia y Tecnología de los Alimentos,Grado,Graduado,Hombres,14,0,0,0,4.57,91.01,5/1/2020
+2018,Alajuela,Grado: Ciencia y Tecnología de los Alimentos,Grado,Graduado,Mujeres,29,0,0,0,4.19,94.37,5/1/2020
+2018,Alajuela,Grado: Ciencia y Tecnología de los Alimentos,Grado,Incumple Régimen de permanencia,Hombres,0,1,0,0,,,5/1/2020
+2018,Alajuela,Grado: Ciencia y Tecnología de los Alimentos,Grado,Incumple Régimen de permanencia,Mujeres,0,2,2,0,,,5/1/2020
+2018,Alajuela,Grado: Ciencia y Tecnología de los Alimentos,Grado,Traslado a otra Universidad,Hombres,0,0,0,2,,,5/1/2020
+2018,Alajuela,Grado: Ciencia y Tecnología de los Alimentos,Grado,Traslado a otra Universidad,Mujeres,0,0,0,3,,,5/1/2020
+2018,Alajuela,Grado: Derecho,Grado,Abandono Voluntario,Hombres,0,26,9,0,,,5/1/2020
+2018,Alajuela,Grado: Derecho,Grado,Abandono Voluntario,Mujeres,0,27,9,0,,,5/1/2020
+2018,Alajuela,Grado: Derecho,Grado,Cambio de estudios sin simultaneidad,Hombres,0,4,3,0,,,5/1/2020
+2018,Alajuela,Grado: Derecho,Grado,Cambio de estudios sin simultaneidad,Mujeres,0,10,7,0,,,5/1/2020
+2018,Alajuela,Grado: Derecho,Grado,Graduado,Hombres,113,0,0,0,5,91.53,5/1/2020
+2018,Alajuela,Grado: Derecho,Grado,Graduado,Mujeres,191,0,0,0,4.91,92.12,5/1/2020
+2018,Alajuela,Grado: Derecho,Grado,Incumple Régimen de permanencia,Hombres,0,1,1,0,,,5/1/2020
+2018,Alajuela,Grado: Derecho,Grado,Incumple Régimen de permanencia,Mujeres,0,1,0,0,,,5/1/2020
+2018,Alajuela,Grado: Derecho,Grado,Traslado a otra Universidad,Hombres,0,0,0,15,,,5/1/2020
+2018,Alajuela,Grado: Derecho,Grado,Traslado a otra Universidad,Mujeres,0,0,0,12,,,5/1/2020
+2018,Alajuela,Grado: Economía,Grado,Abandono Voluntario,Hombres,0,35,19,0,,,5/1/2020
+2018,Alajuela,Grado: Economía,Grado,Abandono Voluntario,Mujeres,0,21,8,0,,,5/1/2020
+2018,Alajuela,Grado: Economía,Grado,Cambio de estudios sin simultaneidad,Hombres,0,8,4,0,,,5/1/2020
+2018,Alajuela,Grado: Economía,Grado,Cambio de estudios sin simultaneidad,Mujeres,0,3,2,0,,,5/1/2020
+2018,Alajuela,Grado: Economía,Grado,Graduado,Hombres,50,0,0,0,5.4,78.66,5/1/2020
+2018,Alajuela,Grado: Economía,Grado,Graduado,Mujeres,42,0,0,0,5.5,80.29,5/1/2020
+2018,Alajuela,Grado: Economía,Grado,Incumple Régimen de permanencia,Hombres,0,14,8,0,,,5/1/2020
+2018,Alajuela,Grado: Economía,Grado,Incumple Régimen de permanencia,Mujeres,0,5,3,0,,,5/1/2020
+2018,Alajuela,Grado: Economía,Grado,Traslado a otra Universidad,Hombres,0,0,0,14,,,5/1/2020
+2018,Alajuela,Grado: Economía,Grado,Traslado a otra Universidad,Mujeres,0,0,0,2,,,5/1/2020
+2018,Alajuela,Grado: Enfermería,Grado,Abandono Voluntario,Hombres,0,5,2,0,,,5/1/2020
+2018,Alajuela,Grado: Enfermería,Grado,Abandono Voluntario,Mujeres,0,6,3,0,,,5/1/2020
+2018,Alajuela,Grado: Enfermería,Grado,Cambio de estudios sin simultaneidad,Hombres,0,3,2,0,,,5/1/2020
+2018,Alajuela,Grado: Enfermería,Grado,Cambio de estudios sin simultaneidad,Mujeres,0,15,15,0,,,5/1/2020
+2018,Alajuela,Grado: Enfermería,Grado,Graduado,Hombres,27,0,0,0,4,95.14,5/1/2020
+2018,Alajuela,Grado: Enfermería,Grado,Graduado,Mujeres,123,0,0,0,4.08,96.95,5/1/2020
+2018,Alajuela,Grado: Enfermería,Grado,Incumple Régimen de permanencia,Hombres,0,1,1,0,,,5/1/2020
+2018,Alajuela,Grado: Enfermería,Grado,Traslado a otra Universidad,Mujeres,0,0,0,2,,,5/1/2020
+2018,Alajuela,Grado: Estudios Clásicos,Grado,Abandono Voluntario,Hombres,0,2,1,0,,,5/1/2020
+2018,Alajuela,Grado: Estudios Clásicos,Grado,Abandono Voluntario,Mujeres,0,6,2,0,,,5/1/2020
+2018,Alajuela,Grado: Estudios Clásicos,Grado,Cambio de estudios sin simultaneidad,Hombres,0,1,1,0,,,5/1/2020
+2018,Alajuela,Grado: Estudios Clásicos,Grado,Cambio de estudios sin simultaneidad,Mujeres,0,4,1,0,,,5/1/2020
+2018,Alajuela,Grado: Estudios Clásicos,Grado,Graduado,Hombres,3,0,0,0,4.67,95.98,5/1/2020
+2018,Alajuela,Grado: Estudios Clásicos,Grado,Graduado,Mujeres,1,0,0,0,5,92.97,5/1/2020
+2018,Alajuela,Grado: Estudios Clásicos,Grado,Incumple Régimen de permanencia,Hombres,0,1,0,0,,,5/1/2020
+2018,Alajuela,Grado: Estudios Clásicos,Grado,Incumple Régimen de permanencia,Mujeres,0,1,0,0,,,5/1/2020
+2018,Alajuela,Grado: Estudios Clásicos,Grado,Traslado a otra Universidad,Hombres,0,0,0,1,,,5/1/2020
+2018,Alajuela,Grado: Estudios en Arquitectura,Grado,Abandono Voluntario,Hombres,0,9,4,0,,,5/1/2020
+2018,Alajuela,Grado: Estudios en Arquitectura,Grado,Abandono Voluntario,Mujeres,0,8,4,0,,,5/1/2020
+2018,Alajuela,Grado: Estudios en Arquitectura,Grado,Cambio de estudios sin simultaneidad,Hombres,0,4,1,0,,,5/1/2020
+2018,Alajuela,Grado: Estudios en Arquitectura,Grado,Cambio de estudios sin simultaneidad,Mujeres,0,3,0,0,,,5/1/2020
+2018,Alajuela,Grado: Estudios en Arquitectura,Grado,Graduado,Hombres,25,0,0,0,6.05,88.48,5/1/2020
+2018,Alajuela,Grado: Estudios en Arquitectura,Grado,Graduado,Mujeres,22,0,0,0,5.65,89.9,5/1/2020
+2018,Alajuela,Grado: Estudios en Arquitectura,Grado,Incumple Régimen de permanencia,Hombres,0,4,3,0,,,5/1/2020
+2018,Alajuela,Grado: Estudios en Arquitectura,Grado,Traslado a otra Universidad,Hombres,0,0,0,5,,,5/1/2020
+2018,Alajuela,Grado: Estudios en Arquitectura,Grado,Traslado a otra Universidad,Mujeres,0,0,0,2,,,5/1/2020
+2018,Alajuela,Grado: Estudios Ingleses,Grado,Abandono Voluntario,Hombres,0,8,4,0,,,5/1/2020
+2018,Alajuela,Grado: Estudios Ingleses,Grado,Abandono Voluntario,Mujeres,0,20,4,0,,,5/1/2020
+2018,Alajuela,Grado: Estudios Ingleses,Grado,Cambio de estudios sin simultaneidad,Mujeres,0,4,2,0,,,5/1/2020
+2018,Alajuela,Grado: Estudios Ingleses,Grado,Graduado,Hombres,13,0,0,0,4.44,88.45,5/1/2020
+2018,Alajuela,Grado: Estudios Ingleses,Grado,Graduado,Mujeres,47,0,0,0,4.66,89.98,5/1/2020
+2018,Alajuela,Grado: Estudios Ingleses,Grado,Incumple Régimen de permanencia,Hombres,0,1,0,0,,,5/1/2020
+2018,Alajuela,Grado: Estudios Ingleses,Grado,Incumple Régimen de permanencia,Mujeres,0,2,1,0,,,5/1/2020
+2018,Alajuela,Grado: Estudios Ingleses,Grado,Traslado a otra Universidad,Hombres,0,0,0,1,,,5/1/2020
+2018,Alajuela,Grado: Estudios Ingleses,Grado,Traslado a otra Universidad,Mujeres,0,0,0,4,,,5/1/2020
+2018,Alajuela,Grado: Filología Hispánica,Grado,Abandono Voluntario,Hombres,0,13,9,0,,,5/1/2020
+2018,Alajuela,Grado: Filología Hispánica,Grado,Abandono Voluntario,Mujeres,0,8,2,0,,,5/1/2020
+2018,Alajuela,Grado: Filología Hispánica,Grado,Cambio de estudios sin simultaneidad,Hombres,0,2,2,0,,,5/1/2020
+2018,Alajuela,Grado: Filología Hispánica,Grado,Cambio de estudios sin simultaneidad,Mujeres,0,4,3,0,,,5/1/2020
+2018,Alajuela,Grado: Filología Hispánica,Grado,Graduado,Hombres,8,0,0,0,4.71,92.22,5/1/2020
+2018,Alajuela,Grado: Filología Hispánica,Grado,Graduado,Mujeres,33,0,0,0,4.88,87.66,5/1/2020
+2018,Alajuela,Grado: Filología Hispánica,Grado,Incumple Régimen de permanencia,Hombres,0,2,1,0,,,5/1/2020
+2018,Alajuela,Grado: Filología Hispánica,Grado,Incumple Régimen de permanencia,Mujeres,0,3,3,0,,,5/1/2020
+2018,Alajuela,Grado: Filología Hispánica,Grado,Traslado a otra Universidad,Hombres,0,0,0,2,,,5/1/2020
+2018,Alajuela,Grado: Filología Hispánica,Grado,Traslado a otra Universidad,Mujeres,0,0,0,4,,,5/1/2020
+2018,Alajuela,Grado: Filosofía,Grado,Abandono Voluntario,Hombres,0,6,2,0,,,5/1/2020
+2018,Alajuela,Grado: Filosofía,Grado,Abandono Voluntario,Mujeres,0,6,3,0,,,5/1/2020
+2018,Alajuela,Grado: Filosofía,Grado,Cambio de estudios sin simultaneidad,Hombres,0,2,1,0,,,5/1/2020
+2018,Alajuela,Grado: Filosofía,Grado,Cambio de estudios sin simultaneidad,Mujeres,0,1,1,0,,,5/1/2020
+2018,Alajuela,Grado: Filosofía,Grado,Graduado,Hombres,8,0,0,0,4.62,90.65,5/1/2020
+2018,Alajuela,Grado: Filosofía,Grado,Graduado,Mujeres,9,0,0,0,4.44,87.53,5/1/2020
+2018,Alajuela,Grado: Filosofía,Grado,Incumple Régimen de permanencia,Hombres,0,2,1,0,,,5/1/2020
+2018,Alajuela,Grado: Filosofía,Grado,Incumple Régimen de permanencia,Mujeres,0,1,1,0,,,5/1/2020
+2018,Alajuela,Grado: Filosofía,Grado,Traslado a otra Universidad,Hombres,0,0,0,1,,,5/1/2020
+2018,Alajuela,Grado: Finanzas y Contabilidad,Grado,Abandono Voluntario,Hombres,0,31,16,0,,,5/1/2020
+2017,Alajuela,Grado: Finanzas y Contabilidad,Grado,Abandono Voluntario,Mujeres,0,21,8,0,,,5/1/2020
+2017,Alajuela,Grado: Finanzas y Contabilidad,Grado,Cambio de estudios sin simultaneidad,Hombres,0,5,4,0,,,5/1/2020
+2017,Alajuela,Grado: Finanzas y Contabilidad,Grado,Cambio de estudios sin simultaneidad,Mujeres,0,14,11,0,,,5/1/2020
+2017,Alajuela,Grado: Finanzas y Contabilidad,Grado,Graduado,Hombres,34,0,0,0,5.07,83.69,5/1/2020
+2017,Alajuela,Grado: Finanzas y Contabilidad,Grado,Graduado,Mujeres,34,0,0,0,5.27,84.6,5/1/2020
+2017,Alajuela,Grado: Finanzas y Contabilidad,Grado,Incumple Régimen de permanencia,Hombres,0,9,6,0,,,5/1/2020
+2017,Alajuela,Grado: Finanzas y Contabilidad,Grado,Incumple Régimen de permanencia,Mujeres,0,7,3,0,,,5/1/2020
+2017,Alajuela,Grado: Finanzas y Contabilidad,Grado,Traslado a otra Universidad,Hombres,0,0,0,2,,,5/1/2020
+2017,Alajuela,Grado: Finanzas y Contabilidad,Grado,Traslado a otra Universidad,Mujeres,0,0,0,6,,,5/1/2020
+2017,Alajuela,Grado: Física,Grado,Abandono Voluntario,Hombres,0,11,2,0,,,5/1/2020
+2017,Alajuela,Grado: Física,Grado,Abandono Voluntario,Mujeres,0,2,1,0,,,5/1/2020
+2017,Alajuela,Grado: Física,Grado,Cambio de estudios sin simultaneidad,Hombres,0,2,1,0,,,5/1/2020
+2017,Alajuela,Grado: Física,Grado,Cambio de estudios sin simultaneidad,Mujeres,0,7,3,0,,,5/1/2020
+2017,Alajuela,Grado: Física,Grado,Graduado,Hombres,30,0,0,0,4.63,89.32,5/1/2020
+2017,Alajuela,Grado: Física,Grado,Graduado,Mujeres,3,0,0,0,4,99.16,5/1/2020
+2017,Alajuela,Grado: Física,Grado,Incumple Régimen de permanencia,Hombres,0,3,0,0,,,5/1/2020
+2017,Alajuela,Grado: Física,Grado,Incumple Régimen de permanencia,Mujeres,0,2,0,0,,,5/1/2020
+2017,Alajuela,Grado: Física,Grado,Traslado a otra Universidad,Hombres,0,0,0,4,,,5/1/2020
+2017,Alajuela,Grado: Física,Grado,Traslado a otra Universidad,Mujeres,0,0,0,5,,,5/1/2020
+2017,Alajuela,Grado: Fisioterapia,Grado,Abandono Voluntario,Hombres,0,1,1,0,,,5/1/2020
+2017,Alajuela,Grado: Fisioterapia,Grado,Abandono Voluntario,Mujeres,0,3,3,0,,,5/1/2020
+2017,Alajuela,Grado: Fisioterapia,Grado,Cambio de estudios sin simultaneidad,Mujeres,0,2,2,0,,,5/1/2020
+2017,Alajuela,Grado: Fisioterapia,Grado,Graduado,Hombres,21,0,0,0,4,94.12,5/1/2020
+2017,Alajuela,Grado: Fisioterapia,Grado,Graduado,Mujeres,32,0,0,0,4.03,97.32,5/1/2020
+2017,Alajuela,Grado: Fisioterapia,Grado,Traslado a otra Universidad,Mujeres,0,0,0,1,,,5/1/2020
+2017,Alajuela,Grado: Geografía y Ordenación del Territorio,Grado,Abandono Voluntario,Hombres,0,12,8,0,,,5/1/2020
+2017,Alajuela,Grado: Geografía y Ordenación del Territorio,Grado,Abandono Voluntario,Mujeres,0,3,0,0,,,5/1/2020
+2017,Alajuela,Grado: Geografía y Ordenación del Territorio,Grado,Graduado,Hombres,30,0,0,0,4.72,92.47,5/1/2020
+2017,Alajuela,Grado: Geografía y Ordenación del Territorio,Grado,Graduado,Mujeres,6,0,0,0,4.17,96.19,5/1/2020
+2017,Alajuela,Grado: Geografía y Ordenación del Territorio,Grado,Incumple Régimen de permanencia,Hombres,0,1,1,0,,,5/1/2020
+2017,Alajuela,Grado: Geografía y Ordenación del Territorio,Grado,Traslado a otra Universidad,Mujeres,0,0,0,1,,,5/1/2020
+2017,Alajuela,Grado: Geología,Grado,Abandono Voluntario,Hombres,0,12,4,0,,,5/1/2020
+2017,Alajuela,Grado: Geología,Grado,Abandono Voluntario,Mujeres,0,8,4,0,,,5/1/2020
+2017,Alajuela,Grado: Geología,Grado,Cambio de estudios sin simultaneidad,Hombres,0,3,3,0,,,5/1/2020
+2017,Alajuela,Grado: Geología,Grado,Cambio de estudios sin simultaneidad,Mujeres,0,1,1,0,,,5/1/2020
+2017,Alajuela,Grado: Geología,Grado,Graduado,Hombres,5,0,0,0,5.2,81.16,5/1/2020
+2017,Alajuela,Grado: Geología,Grado,Graduado,Mujeres,3,0,0,0,5,86.68,5/1/2020
+2017,Alajuela,Grado: Geología,Grado,Incumple Régimen de permanencia,Hombres,0,3,2,0,,,5/1/2020
+2017,Alajuela,Grado: Geología,Grado,Traslado a otra Universidad,Hombres,0,0,0,2,,,5/1/2020
+2017,Alajuela,Grado: Historia,Grado,Abandono Voluntario,Hombres,0,40,13,0,,,5/1/2020
+2017,Alajuela,Grado: Historia,Grado,Abandono Voluntario,Mujeres,0,9,0,0,,,5/1/2020
+2017,Alajuela,Grado: Historia,Grado,Cambio de estudios sin simultaneidad,Hombres,0,2,1,0,,,5/1/2020
+2017,Alajuela,Grado: Historia,Grado,Graduado,Hombres,44,0,0,0,5.1,88.84,5/1/2020
+2017,Alajuela,Grado: Historia,Grado,Graduado,Mujeres,25,0,0,0,4.75,92.43,5/1/2020
+2017,Alajuela,Grado: Historia,Grado,Incumple Régimen de permanencia,Hombres,0,3,3,0,,,5/1/2020
+2017,Alajuela,Grado: Historia,Grado,Incumple Régimen de permanencia,Mujeres,0,1,1,0,,,5/1/2020
+2017,Alajuela,Grado: Historia,Grado,Traslado a otra Universidad,Hombres,0,0,0,8,,,5/1/2020
+2017,Alajuela,Grado: Historia,Grado,Traslado a otra Universidad,Mujeres,0,0,0,1,,,5/1/2020
+2017,Alajuela,Grado: Historia del Arte,Grado,Abandono Voluntario,Hombres,0,13,7,0,,,5/1/2020
+2017,Alajuela,Grado: Historia del Arte,Grado,Abandono Voluntario,Mujeres,0,23,12,0,,,5/1/2020
+2017,Alajuela,Grado: Historia del Arte,Grado,Graduado,Hombres,8,0,0,0,4.38,88.46,5/1/2020
+2017,Alajuela,Grado: Historia del Arte,Grado,Graduado,Mujeres,16,0,0,0,5,88.99,5/1/2020
+2017,Alajuela,Grado: Historia del Arte,Grado,Incumple Régimen de permanencia,Mujeres,0,1,0,0,,,5/1/2020
+2017,Alajuela,Grado: Historia del Arte,Grado,Traslado a otra Universidad,Hombres,0,0,0,1,,,5/1/2020
+2017,Alajuela,Grado: Historia del Arte,Grado,Traslado a otra Universidad,Mujeres,0,0,0,2,,,5/1/2020
+2017,Alajuela,Grado: Información y Documentación,Grado,Abandono Voluntario,Hombres,0,5,3,0,,,5/1/2020
+2017,Alajuela,Grado: Información y Documentación,Grado,Abandono Voluntario,Mujeres,0,4,2,0,,,5/1/2020
+2017,Alajuela,Grado: Información y Documentación,Grado,Graduado,Hombres,7,0,0,0,4,95.76,5/1/2020
+2017,Alajuela,Grado: Información y Documentación,Grado,Graduado,Mujeres,11,0,0,0,4.67,94.6,5/1/2020
+2017,Alajuela,Grado: Información y Documentación,Grado,Traslado a otra Universidad,Hombres,0,0,0,1,,,5/1/2020
+2017,Alajuela,Grado: Ingeniería de Organización Industrial,Grado,Abandono Voluntario,Hombres,0,17,14,0,,,5/1/2020
+2017,Alajuela,Grado: Ingeniería de Organización Industrial,Grado,Abandono Voluntario,Mujeres,0,2,2,0,,,5/1/2020
+2017,Alajuela,Grado: Ingeniería de Organización Industrial,Grado,Cambio de estudios sin simultaneidad,Hombres,0,1,1,0,,,5/1/2020
+2017,Alajuela,Grado: Ingeniería de Organización Industrial,Grado,Graduado,Hombres,134,0,0,0,5.52,89.62,5/1/2020
+2017,Alajuela,Grado: Ingeniería de Organización Industrial,Grado,Graduado,Mujeres,6,0,0,0,5.5,93.83,5/1/2020
+2017,Alajuela,Grado: Ingeniería de Organización Industrial,Grado,Traslado a otra Universidad,Hombres,0,0,0,79,,,5/1/2020
+2017,Alajuela,Grado: Ingeniería de Organización Industrial,Grado,Traslado a otra Universidad,Mujeres,0,0,0,10,,,5/1/2020
+2017,Alajuela,Grado: Ingeniería de Tecnologías Industriales,Grado,Abandono Voluntario,Hombres,0,8,3,0,,,5/1/2020
+2017,Alajuela,Grado: Ingeniería de Tecnologías Industriales,Grado,Abandono Voluntario,Mujeres,0,2,0,0,,,5/1/2020
+2017,Alajuela,Grado: Ingeniería de Tecnologías Industriales,Grado,Cambio de estudios sin simultaneidad,Hombres,0,19,10,0,,,5/1/2020
+2017,Alajuela,Grado: Ingeniería de Tecnologías Industriales,Grado,Cambio de estudios sin simultaneidad,Mujeres,0,7,2,0,,,5/1/2020
+2017,Alajuela,Grado: Ingeniería de Tecnologías Industriales,Grado,Graduado,Hombres,71,0,0,0,5.19,82.34,5/1/2020
+2017,Alajuela,Grado: Ingeniería de Tecnologías Industriales,Grado,Graduado,Mujeres,30,0,0,0,5.14,80,5/1/2020
+2017,Alajuela,Grado: Ingeniería de Tecnologías Industriales,Grado,Incumple Régimen de permanencia,Hombres,0,16,4,0,,,5/1/2020
+2017,Alajuela,Grado: Ingeniería de Tecnologías Industriales,Grado,Incumple Régimen de permanencia,Mujeres,0,7,0,0,,,5/1/2020
+2017,Alajuela,Grado: Ingeniería de Tecnologías Industriales,Grado,Traslado a otra Universidad,Hombres,0,0,0,4,,,5/1/2020
+2017,Alajuela,Grado: Ingeniería de Tecnologías Industriales,Grado,Traslado a otra Universidad,Mujeres,0,0,0,3,,,5/1/2020
+2017,Alajuela,Grado: Ingeniería de Tecnologías y Servicios de Telecomunicación,Grado,Abandono Voluntario,Hombres,0,18,14,0,,,5/1/2020
+2017,Alajuela,Grado: Ingeniería de Tecnologías y Servicios de Telecomunicación,Grado,Abandono Voluntario,Mujeres,0,2,1,0,,,5/1/2020
+2017,Alajuela,Grado: Ingeniería de Tecnologías y Servicios de Telecomunicación,Grado,Cambio de estudios sin simultaneidad,Hombres,0,4,3,0,,,5/1/2020
+2017,Alajuela,Grado: Ingeniería de Tecnologías y Servicios de Telecomunicación,Grado,Graduado,Hombres,31,0,0,0,5.58,77.78,5/1/2020
+2017,Alajuela,Grado: Ingeniería de Tecnologías y Servicios de Telecomunicación,Grado,Graduado,Mujeres,9,0,0,0,4.62,89.55,5/1/2020
+2017,Alajuela,Grado: Ingeniería de Tecnologías y Servicios de Telecomunicación,Grado,Incumple Régimen de permanencia,Hombres,0,24,17,0,,,5/1/2020
+2017,Alajuela,Grado: Ingeniería de Tecnologías y Servicios de Telecomunicación,Grado,Incumple Régimen de permanencia,Mujeres,0,3,3,0,,,5/1/2020
+2017,Alajuela,Grado: Ingeniería de Tecnologías y Servicios de Telecomunicación,Grado,Traslado a otra Universidad,Hombres,0,0,0,4,,,5/1/2020
+2017,Alajuela,Grado: Ingeniería de Tecnologías y Servicios de Telecomunicación,Grado,Traslado a otra Universidad,Mujeres,0,0,0,2,,,5/1/2020
+2017,Alajuela,Grado: Ingeniería Electrica,Grado,Abandono Voluntario,Hombres,0,31,15,0,,,5/1/2020
+2017,Alajuela,Grado: Ingeniería Electrica,Grado,Abandono Voluntario,Mujeres,0,3,3,0,,,5/1/2020
+2017,Alajuela,Grado: Ingeniería Electrica,Grado,Cambio de estudios sin simultaneidad,Hombres,0,5,5,0,,,5/1/2020
+2017,Alajuela,Grado: Ingeniería Electrica,Grado,Cambio de estudios sin simultaneidad,Mujeres,0,1,0,0,,,5/1/2020
+2017,Alajuela,Grado: Ingeniería Electrica,Grado,Graduado,Hombres,30,0,0,0,6.14,75.17,5/1/2020
+2017,Alajuela,Grado: Ingeniería Electrica,Grado,Graduado,Mujeres,6,0,0,0,5.33,81.66,5/1/2020
+2017,Alajuela,Grado: Ingeniería Electrica,Grado,Incumple Régimen de permanencia,Hombres,0,9,6,0,,,5/1/2020
+2017,Alajuela,Grado: Ingeniería Electrica,Grado,Incumple Régimen de permanencia,Mujeres,0,2,1,0,,,5/1/2020
+2017,Alajuela,Grado: Ingeniería Electrica,Grado,Traslado a otra Universidad,Hombres,0,0,0,4,,,5/1/2020
+2017,Alajuela,Grado: Ingeniería Electrica,Grado,Traslado a otra Universidad,Mujeres,0,0,0,1,,,5/1/2020
+2017,Alajuela,Grado: Ingeniería Electrónica y Automática,Grado,Abandono Voluntario,Hombres,0,35,22,0,,,5/1/2020
+2017,Alajuela,Grado: Ingeniería Electrónica y Automática,Grado,Abandono Voluntario,Mujeres,0,4,1,0,,,5/1/2020
+2017,Alajuela,Grado: Ingeniería Electrónica y Automática,Grado,Cambio de estudios sin simultaneidad,Hombres,0,5,2,0,,,5/1/2020
+2017,Alajuela,Grado: Ingeniería Electrónica y Automática,Grado,Cambio de estudios sin simultaneidad,Mujeres,0,3,3,0,,,5/1/2020
+2017,Alajuela,Grado: Ingeniería Electrónica y Automática,Grado,Graduado,Hombres,38,0,0,0,6.21,74.15,5/1/2020
+2017,Alajuela,Grado: Ingeniería Electrónica y Automática,Grado,Graduado,Mujeres,5,0,0,0,5.2,86.48,5/1/2020
+2017,Alajuela,Grado: Ingeniería Electrónica y Automática,Grado,Incumple Régimen de permanencia,Hombres,0,22,15,0,,,5/1/2020
+2017,Alajuela,Grado: Ingeniería Electrónica y Automática,Grado,Incumple Régimen de permanencia,Mujeres,0,1,1,0,,,5/1/2020
+2017,Alajuela,Grado: Ingeniería Electrónica y Automática,Grado,Traslado a otra Universidad,Hombres,0,0,0,2,,,5/1/2020
+2017,Alajuela,Grado: Ingeniería Electrónica y Automática,Grado,Traslado a otra Universidad,Mujeres,0,0,0,1,,,5/1/2020
+2017,Alajuela,Grado: Ingeniería Informática,Grado,Abandono Voluntario,Hombres,0,22,8,0,,,5/1/2020
+2017,Alajuela,Grado: Ingeniería Informática,Grado,Abandono Voluntario,Mujeres,0,1,0,0,,,5/1/2020
+2017,Alajuela,Grado: Ingeniería Informática,Grado,Cambio de estudios sin simultaneidad,Hombres,0,6,4,0,,,5/1/2020
+2017,Alajuela,Grado: Ingeniería Informática,Grado,Cambio de estudios sin simultaneidad,Mujeres,0,1,1,0,,,5/1/2020
+2017,Alajuela,Grado: Ingeniería Informática,Grado,Graduado,Hombres,46,0,0,0,5.31,83.34,5/1/2020
+2017,Alajuela,Grado: Ingeniería Informática,Grado,Graduado,Mujeres,7,0,0,0,5.57,77.77,5/1/2020
+2017,Alajuela,Grado: Ingeniería Informática,Grado,Incumple Régimen de permanencia,Hombres,0,2,2,0,,,5/1/2020
+2017,Alajuela,Grado: Ingeniería Informática,Grado,Incumple Régimen de permanencia,Mujeres,0,2,2,0,,,5/1/2020
+2017,Alajuela,Grado: Ingeniería Informática,Grado,Traslado a otra Universidad,Hombres,0,0,0,5,,,5/1/2020
+2017,Alajuela,Grado: Ingeniería Informática,Grado,Traslado a otra Universidad,Mujeres,0,0,0,1,,,5/1/2020
+2017,Alajuela,Grado: Ingeniería Mecánica,Grado,Abandono Voluntario,Hombres,0,65,30,0,,,5/1/2020
+2017,Alajuela,Grado: Ingeniería Mecánica,Grado,Abandono Voluntario,Mujeres,0,9,5,0,,,5/1/2020
+2017,Alajuela,Grado: Ingeniería Mecánica,Grado,Cambio de estudios sin simultaneidad,Hombres,0,19,10,0,,,5/1/2020
+2017,Alajuela,Grado: Ingeniería Mecánica,Grado,Cambio de estudios sin simultaneidad,Mujeres,0,5,4,0,,,5/1/2020
+2017,Alajuela,Grado: Ingeniería Mecánica,Grado,Graduado,Hombres,109,0,0,0,5.78,76.85,5/1/2020
+2017,Alajuela,Grado: Ingeniería Mecánica,Grado,Graduado,Mujeres,15,0,0,0,5.36,79.61,5/1/2020
+2019,Alajuela,Grado: Ingeniería Mecánica,Grado,Incumple Régimen de permanencia,Hombres,0,38,23,0,,,5/1/2020
+2019,Alajuela,Grado: Ingeniería Mecánica,Grado,Incumple Régimen de permanencia,Mujeres,0,8,4,0,,,5/1/2020
+2019,Alajuela,Grado: Ingeniería Mecánica,Grado,Traslado a otra Universidad,Hombres,0,0,0,15,,,5/1/2020
+2019,Alajuela,Grado: Ingeniería Mecánica,Grado,Traslado a otra Universidad,Mujeres,0,0,0,6,,,5/1/2020
+2019,Alajuela,Grado: Ingeniería Química,Grado,Abandono Voluntario,Hombres,0,15,6,0,,,5/1/2020
+2019,Alajuela,Grado: Ingeniería Química,Grado,Abandono Voluntario,Mujeres,0,7,4,0,,,5/1/2020
+2019,Alajuela,Grado: Ingeniería Química,Grado,Cambio de estudios sin simultaneidad,Hombres,0,3,3,0,,,5/1/2020
+2019,Alajuela,Grado: Ingeniería Química,Grado,Cambio de estudios sin simultaneidad,Mujeres,0,4,3,0,,,5/1/2020
+2019,Alajuela,Grado: Ingeniería Química,Grado,Graduado,Hombres,21,0,0,0,5.06,82.7,5/1/2020
+2019,Alajuela,Grado: Ingeniería Química,Grado,Graduado,Mujeres,15,0,0,0,4.8,92.25,5/1/2020
+2019,Alajuela,Grado: Ingeniería Química,Grado,Incumple Régimen de permanencia,Hombres,0,6,4,0,,,5/1/2020
+2019,Alajuela,Grado: Ingeniería Química,Grado,Incumple Régimen de permanencia,Mujeres,0,2,2,0,,,5/1/2020
+2019,Alajuela,Grado: Ingeniería Química,Grado,Traslado a otra Universidad,Hombres,0,0,0,6,,,5/1/2020
+2019,Alajuela,Grado: Ingeniería Química,Grado,Traslado a otra Universidad,Mujeres,0,0,0,4,,,5/1/2020
+2019,Alajuela,Grado: Ingeniero en Diseño Industrial y Desarrollo de Producto,Grado,Abandono Voluntario,Hombres,0,5,2,0,,,5/1/2020
+2019,Alajuela,Grado: Ingeniero en Diseño Industrial y Desarrollo de Producto,Grado,Abandono Voluntario,Mujeres,0,3,1,0,,,5/1/2020
+2019,Alajuela,Grado: Ingeniero en Diseño Industrial y Desarrollo de Producto,Grado,Cambio de estudios sin simultaneidad,Hombres,0,1,0,0,,,5/1/2020
+2019,Alajuela,Grado: Ingeniero en Diseño Industrial y Desarrollo de Producto,Grado,Graduado,Hombres,26,0,0,0,4.21,88.83,5/1/2020
+2019,Alajuela,Grado: Ingeniero en Diseño Industrial y Desarrollo de Producto,Grado,Graduado,Mujeres,35,0,0,0,4.21,86.52,5/1/2020
+2019,Alajuela,Grado: Ingeniero en Diseño Industrial y Desarrollo de Producto,Grado,Incumple Régimen de permanencia,Hombres,0,1,1,0,,,5/1/2020
+2019,Alajuela,Grado: Ingeniero en Diseño Industrial y Desarrollo de Producto,Grado,Traslado a otra Universidad,Hombres,0,0,0,1,,,5/1/2020
+2019,Alajuela,Grado: Ingeniero en Diseño Industrial y Desarrollo de Producto,Grado,Traslado a otra Universidad,Mujeres,0,0,0,1,,,5/1/2020
+2019,Alajuela,Grado: Lenguas Modernas,Grado,Abandono Voluntario,Hombres,0,3,2,0,,,5/1/2020
+2019,Alajuela,Grado: Lenguas Modernas,Grado,Abandono Voluntario,Mujeres,0,9,5,0,,,5/1/2020
+2019,Alajuela,Grado: Lenguas Modernas,Grado,Cambio de estudios sin simultaneidad,Hombres,0,1,1,0,,,5/1/2020
+2019,Alajuela,Grado: Lenguas Modernas,Grado,Cambio de estudios sin simultaneidad,Mujeres,0,3,3,0,,,5/1/2020
+2019,Alajuela,Grado: Lenguas Modernas,Grado,Graduado,Hombres,5,0,0,0,4.4,96.69,5/1/2020
+2019,Alajuela,Grado: Lenguas Modernas,Grado,Graduado,Mujeres,23,0,0,0,4.54,93.57,5/1/2020
+2019,Alajuela,Grado: Lenguas Modernas,Grado,Incumple Régimen de permanencia,Mujeres,0,1,1,0,,,5/1/2020
+2019,Alajuela,Grado: Magisterio en Educación Infantil,Grado,Abandono Voluntario,Hombres,0,1,0,0,,,5/1/2020
+2019,Alajuela,Grado: Magisterio en Educación Infantil,Grado,Abandono Voluntario,Mujeres,0,15,4,0,,,5/1/2020
+2019,Alajuela,Grado: Magisterio en Educación Infantil,Grado,Cambio de estudios sin simultaneidad,Mujeres,0,1,1,0,,,5/1/2020
+2019,Alajuela,Grado: Magisterio en Educación Infantil,Grado,Graduado,Hombres,2,0,0,0,4,100,5/1/2020
+2019,Alajuela,Grado: Magisterio en Educación Infantil,Grado,Graduado,Mujeres,107,0,0,0,4.21,96.13,5/1/2020
+2019,Alajuela,Grado: Magisterio en Educación Infantil,Grado,Traslado a otra Universidad,Mujeres,0,0,0,1,,,5/1/2020
+2019,Alajuela,Grado: Magisterio en Educación Primaria,Grado,Abandono Voluntario,Hombres,0,18,9,0,,,5/1/2020
+2019,Alajuela,Grado: Magisterio en Educación Primaria,Grado,Abandono Voluntario,Mujeres,0,19,8,0,,,5/1/2020
+2019,Alajuela,Grado: Magisterio en Educación Primaria,Grado,Cambio de estudios sin simultaneidad,Hombres,0,1,1,0,,,5/1/2020
+2019,Alajuela,Grado: Magisterio en Educación Primaria,Grado,Cambio de estudios sin simultaneidad,Mujeres,0,2,2,0,,,5/1/2020
+2019,Alajuela,Grado: Magisterio en Educación Primaria,Grado,Graduado,Hombres,53,0,0,0,4.82,89.24,5/1/2020
+2019,Alajuela,Grado: Magisterio en Educación Primaria,Grado,Graduado,Mujeres,177,0,0,0,4.27,95.01,5/1/2020
+2019,Alajuela,Grado: Magisterio en Educación Primaria,Grado,Incumple Régimen de permanencia,Hombres,0,1,0,0,,,5/1/2020
+2019,Alajuela,Grado: Magisterio en Educación Primaria,Grado,Traslado a otra Universidad,Mujeres,0,0,0,2,,,5/1/2020
+2019,Alajuela,Grado: Marketing e Investigación de Mercados,Grado,Abandono Voluntario,Hombres,0,21,11,0,,,5/1/2020
+2019,Alajuela,Grado: Marketing e Investigación de Mercados,Grado,Abandono Voluntario,Mujeres,0,20,5,0,,,5/1/2020
+2019,Alajuela,Grado: Marketing e Investigación de Mercados,Grado,Cambio de estudios sin simultaneidad,Hombres,0,9,7,0,,,5/1/2020
+2019,Alajuela,Grado: Marketing e Investigación de Mercados,Grado,Cambio de estudios sin simultaneidad,Mujeres,0,3,3,0,,,5/1/2020
+2019,Alajuela,Grado: Marketing e Investigación de Mercados,Grado,Graduado,Hombres,33,0,0,0,5.29,88.06,5/1/2020
+2019,Alajuela,Grado: Marketing e Investigación de Mercados,Grado,Graduado,Mujeres,39,0,0,0,5,86.55,5/1/2020
+2019,Alajuela,Grado: Marketing e Investigación de Mercados,Grado,Incumple Régimen de permanencia,Mujeres,0,1,0,0,,,5/1/2020
+2019,Alajuela,Grado: Marketing e Investigación de Mercados,Grado,Traslado a otra Universidad,Hombres,0,0,0,3,,,5/1/2020
+2019,Alajuela,Grado: Marketing e Investigación de Mercados,Grado,Traslado a otra Universidad,Mujeres,0,0,0,4,,,5/1/2020
+2019,Alajuela,Grado: Matemáticas,Grado,Abandono Voluntario,Hombres,0,8,3,0,,,5/1/2020
+2019,Alajuela,Grado: Matemáticas,Grado,Abandono Voluntario,Mujeres,0,6,3,0,,,5/1/2020
+2019,Alajuela,Grado: Matemáticas,Grado,Cambio de estudios sin simultaneidad,Hombres,0,2,2,0,,,5/1/2020
+2019,Alajuela,Grado: Matemáticas,Grado,Cambio de estudios sin simultaneidad,Mujeres,0,2,1,0,,,5/1/2020
+2019,Alajuela,Grado: Matemáticas,Grado,Graduado,Hombres,17,0,0,0,5.53,76.62,5/1/2020
+2019,Alajuela,Grado: Matemáticas,Grado,Graduado,Mujeres,10,0,0,0,5.67,77.03,5/1/2020
+2019,Alajuela,Grado: Matemáticas,Grado,Incumple Régimen de permanencia,Hombres,0,5,2,0,,,5/1/2020
+2019,Alajuela,Grado: Matemáticas,Grado,Incumple Régimen de permanencia,Mujeres,0,4,3,0,,,5/1/2020
+2019,Alajuela,Grado: Matemáticas,Grado,Traslado a otra Universidad,Hombres,0,0,0,6,,,5/1/2020
+2019,Alajuela,Grado: Matemáticas,Grado,Traslado a otra Universidad,Mujeres,0,0,0,2,,,5/1/2020
+2019,Alajuela,Grado: Medicina,Grado,Abandono Voluntario,Hombres,0,7,4,0,,,5/1/2020
+2019,Alajuela,Grado: Medicina,Grado,Abandono Voluntario,Mujeres,0,10,4,0,,,5/1/2020
+2019,Alajuela,Grado: Medicina,Grado,Cambio de estudios sin simultaneidad,Mujeres,0,2,2,0,,,5/1/2020
+2019,Alajuela,Grado: Medicina,Grado,Graduado,Hombres,89,0,0,0,6.12,96.13,5/1/2020
+2019,Alajuela,Grado: Medicina,Grado,Graduado,Mujeres,187,0,0,0,6.03,97.82,5/1/2020
+2019,Alajuela,Grado: Medicina,Grado,Incumple Régimen de permanencia,Mujeres,0,1,0,0,,,5/1/2020
+2019,Alajuela,Grado: Medicina,Grado,Traslado a otra Universidad,Hombres,0,0,0,1,,,5/1/2020
+2019,Alajuela,Grado: Medicina,Grado,Traslado a otra Universidad,Mujeres,0,0,0,1,,,5/1/2020
+2019,Alajuela,Grado: Óptica y Optometría,Grado,Abandono Voluntario,Hombres,0,6,3,0,,,5/1/2020
+2019,Alajuela,Grado: Óptica y Optometría,Grado,Abandono Voluntario,Mujeres,0,3,2,0,,,5/1/2020
+2019,Alajuela,Grado: Óptica y Optometría,Grado,Graduado,Hombres,8,0,0,0,4.25,93.93,5/1/2020
+2019,Alajuela,Grado: Óptica y Optometría,Grado,Graduado,Mujeres,33,0,0,0,4.35,89.94,5/1/2020
+2019,Alajuela,Grado: Óptica y Optometría,Grado,Incumple Régimen de permanencia,Mujeres,0,1,0,0,,,5/1/2020
+2019,Alajuela,Grado: Periodismo,Grado,Abandono Voluntario,Hombres,0,3,0,0,,,5/1/2020
+2019,Alajuela,Grado: Periodismo,Grado,Abandono Voluntario,Mujeres,0,5,1,0,,,5/1/2020
+2019,Alajuela,Grado: Periodismo,Grado,Cambio de estudios sin simultaneidad,Hombres,0,1,0,0,,,5/1/2020
+2019,Alajuela,Grado: Periodismo,Grado,Graduado,Hombres,20,0,0,0,4.56,96.75,5/1/2020
+2019,Alajuela,Grado: Periodismo,Grado,Graduado,Mujeres,26,0,0,0,4.08,99.2,5/1/2020
+2019,Alajuela,Grado: Periodismo,Grado,Traslado a otra Universidad,Hombres,0,0,0,1,,,5/1/2020
+2019,Alajuela,Grado: Programa conjunto ADE/Derecho,Grado,Abandono Voluntario,Mujeres,0,2,1,0,,,5/1/2020
+2019,Alajuela,Grado: Programa conjunto ADE/Derecho,Grado,Cambio de estudios sin simultaneidad,Mujeres,0,1,1,0,,,5/1/2020
+2019,Alajuela,Grado: Química,Grado,Abandono Voluntario,Hombres,0,13,4,0,,,5/1/2020
+2019,Alajuela,Grado: Química,Grado,Abandono Voluntario,Mujeres,0,14,1,0,,,5/1/2020
+2019,Alajuela,Grado: Química,Grado,Cambio de estudios sin simultaneidad,Hombres,0,7,1,0,,,5/1/2020
+2019,Alajuela,Grado: Química,Grado,Cambio de estudios sin simultaneidad,Mujeres,0,5,2,0,,,5/1/2020
+2019,Alajuela,Grado: Química,Grado,Graduado,Hombres,45,0,0,0,4.89,82.67,5/1/2020
+2019,Alajuela,Grado: Química,Grado,Graduado,Mujeres,49,0,0,0,4.89,84.65,5/1/2020
+2019,Alajuela,Grado: Química,Grado,Incumple Régimen de permanencia,Hombres,0,10,2,0,,,5/1/2020
+2019,Alajuela,Grado: Química,Grado,Incumple Régimen de permanencia,Mujeres,0,2,0,0,,,5/1/2020
+2019,Alajuela,Grado: Química,Grado,Traslado a otra Universidad,Hombres,0,0,0,4,,,5/1/2020
+2019,Alajuela,Grado: Química,Grado,Traslado a otra Universidad,Mujeres,0,0,0,8,,,5/1/2020
+2019,Alajuela,Grado: Relaciones Laborales y Recursos Humanos,Grado,Abandono Voluntario,Hombres,0,28,13,0,,,5/1/2020
+2019,Alajuela,Grado: Relaciones Laborales y Recursos Humanos,Grado,Abandono Voluntario,Mujeres,0,52,17,0,,,5/1/2020
+2019,Alajuela,Grado: Relaciones Laborales y Recursos Humanos,Grado,Cambio de estudios sin simultaneidad,Hombres,0,1,1,0,,,5/1/2020
+2019,Alajuela,Grado: Relaciones Laborales y Recursos Humanos,Grado,Cambio de estudios sin simultaneidad,Mujeres,0,4,3,0,,,5/1/2020
+2019,Alajuela,Grado: Relaciones Laborales y Recursos Humanos,Grado,Graduado,Hombres,51,0,0,0,5.23,84.5,5/1/2020
+2019,Alajuela,Grado: Relaciones Laborales y Recursos Humanos,Grado,Graduado,Mujeres,58,0,0,0,5.3,88.29,5/1/2020
+2019,Alajuela,Grado: Relaciones Laborales y Recursos Humanos,Grado,Incumple Régimen de permanencia,Hombres,0,2,2,0,,,5/1/2020
+2019,Alajuela,Grado: Relaciones Laborales y Recursos Humanos,Grado,Incumple Régimen de permanencia,Mujeres,0,2,2,0,,,5/1/2020
+2019,Alajuela,Grado: Relaciones Laborales y Recursos Humanos,Grado,Traslado a otra Universidad,Mujeres,0,0,0,7,,,5/1/2020
+2019,Alajuela,Grado: Terapia Ocupacional,Grado,Abandono Voluntario,Hombres,0,2,1,0,,,5/1/2020
+2019,Alajuela,Grado: Terapia Ocupacional,Grado,Abandono Voluntario,Mujeres,0,8,5,0,,,5/1/2020
+2019,Alajuela,Grado: Terapia Ocupacional,Grado,Cambio de estudios sin simultaneidad,Hombres,0,1,1,0,,,5/1/2020
+2019,Alajuela,Grado: Terapia Ocupacional,Grado,Cambio de estudios sin simultaneidad,Mujeres,0,3,3,0,,,5/1/2020
+2019,Alajuela,Grado: Terapia Ocupacional,Grado,Graduado,Hombres,14,0,0,0,4.17,92.95,5/1/2020
+2019,Alajuela,Grado: Terapia Ocupacional,Grado,Graduado,Mujeres,55,0,0,0,4.2,93.42,5/1/2020
+2019,Alajuela,Grado: Terapia Ocupacional,Grado,Incumple Régimen de permanencia,Hombres,0,2,2,0,,,5/1/2020
+2019,Alajuela,Grado: Trabajo Social,Grado,Abandono Voluntario,Hombres,0,9,2,0,,,5/1/2020
+2019,Alajuela,Grado: Trabajo Social,Grado,Abandono Voluntario,Mujeres,0,19,4,0,,,5/1/2020
+2019,Alajuela,Grado: Trabajo Social,Grado,Cambio de estudios sin simultaneidad,Mujeres,0,3,2,0,,,5/1/2020
+2019,Alajuela,Grado: Trabajo Social,Grado,Graduado,Hombres,22,0,0,0,4.73,90.42,5/1/2020
+2019,Alajuela,Grado: Trabajo Social,Grado,Graduado,Mujeres,120,0,0,0,4.23,94.63,5/1/2020
+2019,Alajuela,Grado: Trabajo Social,Grado,Traslado a otra Universidad,Mujeres,0,0,0,4,,,5/1/2020
+2019,Alajuela,Grado: Turismo,Grado,Abandono Voluntario,Hombres,0,7,1,0,,,5/1/2020
+2019,Alajuela,Grado: Turismo,Grado,Abandono Voluntario,Mujeres,0,10,2,0,,,5/1/2020
+2019,Alajuela,Grado: Turismo,Grado,Cambio de estudios sin simultaneidad,Mujeres,0,1,1,0,,,5/1/2020
+2019,Alajuela,Grado: Turismo,Grado,Graduado,Hombres,10,0,0,0,4.57,90.65,5/1/2020
+2019,Alajuela,Grado: Turismo,Grado,Graduado,Mujeres,27,0,0,0,4.58,91.69,5/1/2020
+2019,Alajuela,Grado: Turismo,Grado,Incumple Régimen de permanencia,Hombres,0,1,0,0,,,5/1/2020
+2019,Alajuela,Grado: Turismo,Grado,Incumple Régimen de permanencia,Mujeres,0,2,1,0,,,5/1/2020
+2019,Alajuela,Grado: Veterinaria,Grado,Abandono Voluntario,Hombres,0,4,0,0,,,5/1/2020
+2019,Alajuela,Grado: Veterinaria,Grado,Abandono Voluntario,Mujeres,0,14,3,0,,,5/1/2020
+2019,Alajuela,Grado: Veterinaria,Grado,Cambio de estudios sin simultaneidad,Mujeres,0,1,0,0,,,5/1/2020
+2019,Alajuela,Grado: Veterinaria,Grado,Graduado,Hombres,36,0,0,0,5.44,90.32,5/1/2020
+2019,Alajuela,Grado: Veterinaria,Grado,Graduado,Mujeres,95,0,0,0,5.36,90.24,5/1/2020
+2019,Alajuela,Grado: Veterinaria,Grado,Traslado a otra Universidad,Hombres,0,0,0,2,,,5/1/2020
+2019,Alajuela,Grado: Veterinaria,Grado,Traslado a otra Universidad,Mujeres,0,0,0,6,,,5/1/2020
+2019,Alajuela,Historia,Licenciatura o equivalente,Abandono Voluntario,Hombres,0,1,0,0,,,5/1/2020
+2019,Alajuela,Historia,Licenciatura o equivalente,Abandono Voluntario,Mujeres,0,1,0,0,,,5/1/2020
+2019,Alajuela,Historia,Licenciatura o equivalente,Traslado a otra Universidad,Hombres,0,0,0,2,,,5/1/2020
+2019,Alajuela,Historia del Arte,Licenciatura o equivalente,Abandono Voluntario,Hombres,0,1,0,0,,,5/1/2020
+2019,Alajuela,Historia del Arte,Licenciatura o equivalente,Traslado a otra Universidad,Mujeres,0,0,0,1,,,5/1/2020
+2019,Alajuela,Ingenierio Químico,Licenciatura o equivalente,Abandono Voluntario,Hombres,0,2,0,0,,,5/1/2020
+2019,Alajuela,Ingeniero en Informática,Licenciatura o equivalente,Abandono Voluntario,Hombres,0,3,0,0,,,5/1/2020
+2019,Alajuela,Ingeniero en Informática,Licenciatura o equivalente,Abandono Voluntario,Mujeres,0,1,0,0,,,5/1/2020
+2019,Alajuela,Ingeniero Industrial,Licenciatura o equivalente,Abandono Voluntario,Hombres,0,4,0,0,,,5/1/2020
+2019,Alajuela,Ingeniero Industrial,Licenciatura o equivalente,Abandono Voluntario,Mujeres,0,1,0,0,,,5/1/2020
+2019,Alajuela,Ingeniero Industrial,Licenciatura o equivalente,Traslado a otra Universidad,Mujeres,0,0,0,1,,,5/1/2020
+2019,Alajuela,Ingeniero Técnico Industrial,Diplomatura o equivalente,Traslado a otra Universidad,Mujeres,0,0,0,1,,,5/1/2020
+2019,Alajuela,"Ingeniero Técnico Industrial, Esp. Electricidad",Diplomatura o equivalente,Traslado a otra Universidad,Hombres,0,0,0,1,,,5/1/2020
+2019,Alajuela,"Ingeniero Técnico Industrial, Esp. Mecánica",Diplomatura o equivalente,Traslado a otra Universidad,Hombres,0,0,0,2,,,5/1/2020
+2019,Alajuela,Licenciado en Administración y Dirección de Empresas,Licenciatura o equivalente,Traslado a otra Universidad,Hombres,0,0,0,1,,,5/1/2020
+2019,Alajuela,Licenciado en Administración y Dirección de Empresas,Licenciatura o equivalente,Traslado a otra Universidad,Mujeres,0,0,0,1,,,5/1/2020
+2019,Alajuela,Licenciado en Economía,Licenciatura o equivalente,Traslado a otra Universidad,Hombres,0,0,0,1,,,5/1/2020
+2019,Alajuela,Licenciado en Economía,Licenciatura o equivalente,Traslado a otra Universidad,Mujeres,0,0,0,1,,,5/1/2020
+2019,Alajuela,Licenciado en Matemáticas,Licenciatura o equivalente,Traslado a otra Universidad,Hombres,0,0,0,1,,,5/1/2020
+2019,Alajuela,Máster: Abogacía,Máster,Abandono Voluntario,Mujeres,0,1,1,0,,,5/1/2020
+2019,Alajuela,Máster: Abogacía,Máster,Graduado,Hombres,38,0,0,0,2,99.77,5/1/2020
+2019,Alajuela,Máster: Abogacía,Máster,Graduado,Mujeres,56,0,0,0,1.98,100,5/1/2020
+2019,Alajuela,Máster: Aprendizaje a lo largo de la vida: Iniciación a la investigación,Máster,Abandono Voluntario,Hombres,0,2,1,0,,,5/1/2020
+2019,Alajuela,Máster: Aprendizaje a lo largo de la vida: Iniciación a la investigación,Máster,Abandono Voluntario,Mujeres,0,3,2,0,,,5/1/2020
+2019,Alajuela,Máster: Aprendizaje a lo largo de la vida: Iniciación a la investigación,Máster,Graduado,Hombres,6,0,0,0,1.4,91.14,5/1/2020
+2019,Alajuela,Máster: Aprendizaje a lo largo de la vida: Iniciación a la investigación,Máster,Graduado,Mujeres,10,0,0,0,1,96.77,5/1/2020
+2019,Alajuela,Máster: Arquitectura,Máster,Abandono Voluntario,Hombres,0,1,1,0,,,5/1/2020
+2019,Alajuela,Máster: Arquitectura,Máster,Graduado,Hombres,23,0,0,0,1.5,84.07,5/1/2020
+2019,Alajuela,Máster: Arquitectura,Máster,Graduado,Mujeres,37,0,0,0,1.43,82.06,5/1/2020
+2019,Alajuela,Máster: Auditoría,Máster,Abandono Voluntario,Hombres,0,2,2,0,,,5/1/2020
+2019,Alajuela,Máster: Auditoría,Máster,Cambio de estudios sin simultaneidad,Mujeres,0,1,1,0,,,5/1/2020
+2019,Alajuela,Máster: Auditoría,Máster,Graduado,Hombres,11,0,0,0,1,100,5/1/2020
+2019,Alajuela,Máster: Auditoría,Máster,Graduado,Mujeres,12,0,0,0,1.18,98.36,5/1/2020
+2019,Alajuela,Máster: Biología Molecular y Celular,Máster,Abandono Voluntario,Mujeres,0,1,1,0,,,5/1/2020
+2019,Alajuela,Máster: Biología Molecular y Celular,Máster,Graduado,Hombres,4,0,0,0,1,100,5/1/2020
+2019,Alajuela,Máster: Biología Molecular y Celular,Máster,Graduado,Mujeres,13,0,0,0,1.38,96.32,5/1/2020
+2019,Alajuela,Máster: Biotecnología Cuantitativa,Máster,Graduado,Hombres,4,0,0,0,1,100,5/1/2020
+2019,Alajuela,Máster: Biotecnología Cuantitativa,Máster,Graduado,Mujeres,6,0,0,0,1,100,5/1/2020
+2019,Alajuela,"Máster: Calidad, Seguridad y Tecnología de los Alimentos",Máster,Graduado,Hombres,13,0,0,0,1.08,97.01,5/1/2020
+2019,Alajuela,"Máster: Calidad, Seguridad y Tecnología de los Alimentos",Máster,Graduado,Mujeres,9,0,0,0,1,100,5/1/2020
+2019,Alajuela,Máster: Ciencias de la Antigüedad,Máster,Abandono Voluntario,Hombres,0,2,0,0,,,5/1/2020
+2019,Alajuela,"Máster: Cond. genéticos, nutric. y amb. del crec. y desarrollo",Máster,Graduado,Hombres,5,0,0,0,1.5,94.04,5/1/2020
+2019,Alajuela,"Máster: Cond. genéticos, nutric. y amb. del crec. y desarrollo",Máster,Graduado,Mujeres,15,0,0,0,1,100,5/1/2020
+2019,Alajuela,Máster: Consultoría de Información y Comunicación Digital,Máster,Graduado,Mujeres,11,0,0,0,1.36,95.33,5/1/2020
+2019,Alajuela,Máster: Contabilidad y finanzas,Máster,Abandono Voluntario,Hombres,0,1,1,0,,,5/1/2020
+2019,Alajuela,Máster: Contabilidad y finanzas,Máster,Graduado,Hombres,5,0,0,0,1,100,5/1/2020
+2019,Alajuela,Máster: Contabilidad y finanzas,Máster,Graduado,Mujeres,7,0,0,0,1,100,5/1/2020
+2019,Alajuela,"Máster: Dirección, Estrategia y Marketing",Máster,Abandono Voluntario,Hombres,0,4,4,0,,,5/1/2020
+2019,Alajuela,"Máster: Dirección, Estrategia y Marketing",Máster,Graduado,Mujeres,8,0,0,0,1.29,95.24,5/1/2020
+2019,Alajuela,Máster: Economía,Máster,Abandono Voluntario,Hombres,0,3,2,0,,,5/1/2020
+2019,Alajuela,Máster: Economía,Máster,Graduado,Hombres,5,0,0,0,1,100,5/1/2020
+2019,Alajuela,Máster: Economía,Máster,Graduado,Mujeres,2,0,0,0,1,100,5/1/2020
+2019,Alajuela,Máster: Energías Renovables y Eficiencia Energética,Máster,Abandono Voluntario,Hombres,0,3,0,0,,,5/1/2020
+2019,Alajuela,Máster: Energías Renovables y Eficiencia Energética,Máster,Graduado,Hombres,6,0,0,0,1.83,95.74,5/1/2020
+2019,Alajuela,Máster: Energías Renovables y Eficiencia Energética,Máster,Graduado,Mujeres,2,0,0,0,2,100,5/1/2020
+2019,Alajuela,Máster: Especialización e Investigación en Derecho,Máster,Abandono Voluntario,Mujeres,0,3,0,0,,,5/1/2020
+2019,Alajuela,Máster: Estudios Avanzados de Literatura y Cine en Lengua Inglesa,Máster,Abandono Voluntario,Mujeres,0,1,1,0,,,5/1/2020
+2019,Alajuela,Máster: Estudios Avanzados en Historia del Arte,Máster,Abandono Voluntario,Hombres,0,1,1,0,,,5/1/2020
+2019,Alajuela,Máster: Estudios Avanzados en Historia del Arte,Máster,Abandono Voluntario,Mujeres,0,2,1,0,,,5/1/2020
+2019,Alajuela,Máster: Estudios Avanzados en Historia del Arte,Máster,Graduado,Hombres,1,0,0,0,2,83.67,5/1/2020
+2019,Alajuela,Máster: Estudios Avanzados en Historia del Arte,Máster,Graduado,Mujeres,5,0,0,0,1,100,5/1/2020
+2019,Alajuela,Máster: Estudios Avanzados en Historia del Arte,Máster,Incumple Régimen de permanencia,Hombres,0,1,1,0,,,5/1/2020
+2019,Alajuela,Máster: Física y Tecnologías Físicas,Máster,Abandono Voluntario,Hombres,0,1,1,0,,,5/1/2020
+2019,Alajuela,Máster: Física y Tecnologías Físicas,Máster,Graduado,Hombres,5,0,0,0,1,100,5/1/2020
+2019,Alajuela,Máster: Física y Tecnologías Físicas,Máster,Graduado,Mujeres,5,0,0,0,1,100,5/1/2020
+2019,Alajuela,Máster: Geología: Técnicas y Aplicaciones,Máster,Graduado,Hombres,6,0,0,0,1,100,5/1/2020
+2019,Alajuela,Máster: Geología: Técnicas y Aplicaciones,Máster,Graduado,Mujeres,4,0,0,0,1.5,90.91,5/1/2020
+2019,Alajuela,Máster: Gerontología Social,Máster,Abandono Voluntario,Hombres,0,1,1,0,,,5/1/2020
+2019,Alajuela,Máster: Gerontología Social,Máster,Graduado,Hombres,7,0,0,0,1,100,5/1/2020
+2019,Alajuela,Máster: Gerontología Social,Máster,Graduado,Mujeres,31,0,0,0,1.23,98.36,5/1/2020
+2019,Alajuela,Máster: Gestión Administrativa,Máster,Graduado,Hombres,4,0,0,0,1,100,5/1/2020
+2019,Alajuela,Máster: Gestión Administrativa,Máster,Graduado,Mujeres,11,0,0,0,1.09,99.1,5/1/2020
+2019,Alajuela,Máster: Gestión del Patrimonio Cultural,Máster,Abandono Voluntario,Hombres,0,1,0,0,,,5/1/2020
+2019,Alajuela,Máster: Gestión del Patrimonio Cultural,Máster,Abandono Voluntario,Mujeres,0,1,0,0,,,5/1/2020
+2019,Alajuela,Máster: Gestión del Patrimonio Cultural,Máster,Graduado,Hombres,7,0,0,0,1,100,5/1/2020
+2019,Alajuela,Máster: Gestión del Patrimonio Cultural,Máster,Graduado,Mujeres,15,0,0,0,1,100,5/1/2020
+2019,Alajuela,Máster: Historia Contemporánea,Máster,Graduado,Hombres,5,0,0,0,1,100,5/1/2020
+2019,Alajuela,Máster: Historia Contemporánea,Máster,Graduado,Mujeres,5,0,0,0,1,98.36,5/1/2020
+2019,Alajuela,Máster: Ingeniería biomédica,Máster,Abandono Voluntario,Hombres,0,6,0,0,,,5/1/2020
+2019,Alajuela,Máster: Ingeniería biomédica,Máster,Abandono Voluntario,Mujeres,0,2,0,0,,,5/1/2020
+2019,Alajuela,Máster: Ingeniería biomédica,Máster,Graduado,Hombres,11,0,0,0,1.9,97.3,5/1/2020
+2019,Alajuela,Máster: Ingeniería biomédica,Máster,Graduado,Mujeres,9,0,0,0,2,93.36,5/1/2020
+2019,Alajuela,Máster: Ingeniería de Diseño de Producto,Máster,Graduado,Hombres,5,0,0,0,1.25,95.24,5/1/2020
+2019,Alajuela,Máster: Ingeniería de Diseño de Producto,Máster,Graduado,Mujeres,6,0,0,0,1.17,96.81,5/1/2020
+2019,Alajuela,Máster: Ingeniería de sistemas e informática,Máster,Abandono Voluntario,Mujeres,0,1,0,0,,,5/1/2020
+2019,Alajuela,Máster: Ingeniería de Telecomunicación,Máster,Graduado,Hombres,8,0,0,0,2,98.46,5/1/2020
+2019,Alajuela,Máster: Ingeniería de Telecomunicación,Máster,Graduado,Mujeres,1,0,0,0,2,96,5/1/2020
+2019,Alajuela,Máster: Ingeniería Electrónica,Máster,Abandono Voluntario,Hombres,0,2,2,0,,,5/1/2020
+2019,Alajuela,Máster: Ingeniería Electrónica,Máster,Abandono Voluntario,Mujeres,0,1,0,0,,,5/1/2020
+2019,Alajuela,Máster: Ingeniería Electrónica,Máster,Graduado,Hombres,11,0,0,0,1.33,93.77,5/1/2020
+2019,Alajuela,Máster: Ingeniería Industrial,Máster,Abandono Voluntario,Hombres,0,2,1,0,,,5/1/2020
+2019,Alajuela,Máster: Ingeniería Industrial,Máster,Graduado,Hombres,60,0,0,0,2.26,95.24,5/1/2020
+2019,Alajuela,Máster: Ingeniería Industrial,Máster,Graduado,Mujeres,10,0,0,0,2.12,94.67,5/1/2020
+2019,Alajuela,Máster: Ingeniería Informática,Máster,Abandono Voluntario,Hombres,0,1,0,0,,,5/1/2020
+2019,Alajuela,Máster: Ingeniería Informática,Máster,Graduado,Hombres,6,0,0,0,2.2,97.25,5/1/2020
+2019,Alajuela,Máster: Ingeniería Mecánica,Máster,Abandono Voluntario,Hombres,0,3,3,0,,,5/1/2020
+2019,Alajuela,Máster: Ingeniería Mecánica,Máster,Graduado,Hombres,10,0,0,0,1.4,89.14,5/1/2020
+2019,Alajuela,Máster: Ingeniería Mecánica,Máster,Graduado,Mujeres,1,0,0,0,1,100,5/1/2020
+2019,Alajuela,Máster: Ingeniería Química,Máster,Cambio de estudios sin simultaneidad,Hombres,0,1,1,0,,,5/1/2020
+2019,Alajuela,Máster: Ingeniería Química,Máster,Graduado,Hombres,4,0,0,0,2,100,5/1/2020
+2019,Alajuela,Máster: Ingeniería Química,Máster,Graduado,Mujeres,8,0,0,0,2,99.17,5/1/2020
+2019,Alajuela,Máster: Iniciación a la Investigación en Ciencias de la Enfermería,Máster,Graduado,Hombres,1,0,0,0,2,83.33,5/1/2020
+2019,Alajuela,Máster: Iniciación a la Investigación en Ciencias de la Enfermería,Máster,Graduado,Mujeres,14,0,0,0,1.07,98.59,5/1/2020
+2019,Alajuela,Máster: Iniciación a la investigación en Medicina,Máster,Abandono Voluntario,Hombres,0,1,1,0,,,5/1/2020
+2019,Alajuela,Máster: Iniciación a la investigación en Medicina,Máster,Abandono Voluntario,Mujeres,0,1,1,0,,,5/1/2020
+2019,Alajuela,Máster: Iniciación a la investigación en Medicina,Máster,Graduado,Hombres,22,0,0,0,1.17,96.21,5/1/2020
+2019,Alajuela,Máster: Iniciación a la investigación en Medicina,Máster,Graduado,Mujeres,45,0,0,0,1.05,98.15,5/1/2020
+2019,Alajuela,Máster: Investigación en Filosofía,Máster,Graduado,Hombres,5,0,0,0,1,100,5/1/2020
+2019,Alajuela,Máster: Investigación en Filosofía,Máster,Graduado,Mujeres,1,0,0,0,1,100,5/1/2020
+2019,Alajuela,Máster: Investigación y Estudios Avanzados en Historia,Máster,Abandono Voluntario,Hombres,0,1,1,0,,,5/1/2020
+2019,Alajuela,Máster: Investigación y Estudios Avanzados en Historia,Máster,Graduado,Hombres,4,0,0,0,1.25,95.24,5/1/2020
+2019,Alajuela,Máster: Investigación y Estudios Avanzados en Historia,Máster,Graduado,Mujeres,2,0,0,0,1,100,5/1/2020
+2019,Alajuela,Máster: Literaturas Hispánicas y Lengua Española: Tradición e Identidades,Máster,Abandono Voluntario,Mujeres,0,1,1,0,,,5/1/2020
+2019,Alajuela,Máster: Literaturas Hispánicas y Lengua Española: Tradición e Identidades,Máster,Graduado,Hombres,1,0,0,0,1,100,5/1/2020
+2019,Alajuela,Máster: Literaturas Hispánicas y Lengua Española: Tradición e Identidades,Máster,Graduado,Mujeres,6,0,0,0,1,93.75,5/1/2020
+2019,Alajuela,Máster: Materiales nanoestructurados para aplicaciones nanotecnológicas,Máster,Abandono Voluntario,Hombres,0,1,0,0,,,5/1/2020
+2019,Alajuela,Máster: Materiales nanoestructurados para aplicaciones nanotecnológicas,Máster,Graduado,Hombres,8,0,0,0,1,100,5/1/2020
+2019,Alajuela,Máster: Materiales nanoestructurados para aplicaciones nanotecnológicas,Máster,Graduado,Mujeres,5,0,0,0,1,100,5/1/2020
+2019,Alajuela,"Máster: Modelización e Investigación Matemática, Estadística y Computación",Máster,Graduado,Hombres,7,0,0,0,1.17,92.11,5/1/2020
+2019,Alajuela,"Máster: Modelización e Investigación Matemática, Estadística y Computación",Máster,Graduado,Mujeres,5,0,0,0,1.2,96.15,5/1/2020
+2019,Alajuela,Máster: Mundo Antiguo y Patrimonio Arqueológico,Máster,Graduado,Hombres,7,0,0,0,1,100,5/1/2020
+2019,Alajuela,Máster: Mundo Antiguo y Patrimonio Arqueológico,Máster,Graduado,Mujeres,5,0,0,0,1,100,5/1/2020
+2019,Alajuela,Máster: Nanotecnología Medioambiental,Máster,Abandono Voluntario,Hombres,0,2,2,0,,,5/1/2020
+2019,Alajuela,Máster: Nanotecnología Medioambiental,Máster,Graduado,Hombres,1,0,0,0,2,83.33,5/1/2020
+2019,Alajuela,Máster: Nutrición animal,Máster,Abandono Voluntario,Hombres,0,1,1,0,,,5/1/2020
+2019,Alajuela,Máster: Ordenación Territorial y Medioambiental,Máster,Abandono Voluntario,Hombres,0,1,1,0,,,5/1/2020
+2019,Alajuela,Máster: Ordenación Territorial y Medioambiental,Máster,Graduado,Hombres,8,0,0,0,1,100,5/1/2020
+2019,Alajuela,Máster: Ordenación Territorial y Medioambiental,Máster,Graduado,Mujeres,5,0,0,0,1,100,5/1/2020
+2019,Alajuela,Máster: Prevención de riesgos laborales,Máster,Abandono Voluntario,Hombres,0,2,2,0,,,5/1/2020
+2019,Alajuela,Máster: Prevención de riesgos laborales,Máster,Graduado,Hombres,11,0,0,0,1.09,98.53,5/1/2020
+2019,Alajuela,Máster: Prevención de riesgos laborales,Máster,Graduado,Mujeres,11,0,0,0,1.3,98.48,5/1/2020
+2019,Alajuela,"Máster: Profesorado E.S.O., F.P. y Ens. Idiom, Art y Deport",Máster,Abandono Voluntario,Hombres,0,10,8,0,,,5/1/2020
+2019,Alajuela,"Máster: Profesorado E.S.O., F.P. y Ens. Idiom, Art y Deport",Máster,Abandono Voluntario,Mujeres,0,15,12,0,,,5/1/2020
+2019,Alajuela,"Máster: Profesorado E.S.O., F.P. y Ens. Idiom, Art y Deport",Máster,Graduado,Hombres,161,0,0,0,1.13,97.57,5/1/2020
+2019,Alajuela,"Máster: Profesorado E.S.O., F.P. y Ens. Idiom, Art y Deport",Máster,Graduado,Mujeres,249,0,0,0,1.13,98.14,5/1/2020
+2019,Alajuela,"Máster: Profesorado E.S.O., F.P. y Ens. Idiom, Art y Deport",Máster,Incumple Régimen de permanencia,Hombres,0,1,1,0,,,5/1/2020
+2019,Alajuela,"Máster: Profesorado E.S.O., F.P. y Ens. Idiom, Art y Deport",Máster,Incumple Régimen de permanencia,Mujeres,0,1,1,0,,,5/1/2020
+2019,Alajuela,Máster: Química Industrial,Máster,Graduado,Hombres,14,0,0,0,1.08,98.94,5/1/2020
+2019,Alajuela,Máster: Química Industrial,Máster,Graduado,Mujeres,7,0,0,0,1,100,5/1/2020
+2019,Alajuela,Máster: Química Molecular y Catálisis Homogénea,Máster,Graduado,Hombres,9,0,0,0,1,100,5/1/2020
+2019,Alajuela,Máster: Química Molecular y Catálisis Homogénea,Máster,Graduado,Mujeres,7,0,0,0,1,100,5/1/2020
+2019,Alajuela,Máster: Relaciones de Género,Máster,Abandono Voluntario,Hombres,0,2,0,0,,,5/1/2020
+2019,Alajuela,Máster: Relaciones de Género,Máster,Abandono Voluntario,Mujeres,0,2,2,0,,,5/1/2020
+2019,Alajuela,Máster: Relaciones de Género,Máster,Graduado,Hombres,1,0,0,0,1,100,5/1/2020
+2019,Alajuela,Máster: Relaciones de Género,Máster,Graduado,Mujeres,18,0,0,0,1.11,97.83,5/1/2020
+2019,Alajuela,Máster: Salud pública,Máster,Abandono Voluntario,Hombres,0,2,2,0,,,5/1/2020
+2019,Alajuela,Máster: Salud pública,Máster,Abandono Voluntario,Mujeres,0,3,1,0,,,5/1/2020
+2019,Alajuela,Máster: Salud pública,Máster,Graduado,Hombres,6,0,0,0,1,100,5/1/2020
+2019,Alajuela,Máster: Salud pública,Máster,Graduado,Mujeres,15,0,0,0,1.27,96.98,5/1/2020
+2019,Alajuela,Máster: Sistemas Mecánicos,Máster,Abandono Voluntario,Hombres,0,1,0,0,,,5/1/2020
+2019,Alajuela,Máster: Sociología de las Políticas Públicas y Sociales,Máster,Abandono Voluntario,Mujeres,0,1,0,0,,,5/1/2020
+2019,Alajuela,Máster: Sociología de las Políticas Públicas y Sociales,Máster,Graduado,Hombres,6,0,0,0,1,100,5/1/2020
+2019,Alajuela,Máster: Sociología de las Políticas Públicas y Sociales,Máster,Graduado,Mujeres,8,0,0,0,1.12,97.56,5/1/2020
+2019,Alajuela,Máster: Tec.Información Geográfica para Ordenación Territorio: Sig/Teled,Máster,Abandono Voluntario,Hombres,0,3,2,0,,,5/1/2020
+2017,Alajuela,Máster: Tec.Información Geográfica para Ordenación Territorio: Sig/Teled,Máster,Graduado,Hombres,12,0,0,0,1.09,98.36,5/1/2020
+2017,Alajuela,Máster: Tec.Información Geográfica para Ordenación Territorio: Sig/Teled,Máster,Graduado,Mujeres,7,0,0,0,1.17,97.24,5/1/2020
+2017,Alajuela,Máster: Traducción de textos especializados,Máster,Graduado,Mujeres,1,0,0,0,,90.91,5/1/2020
+2017,Alajuela,Máster: Unión Europea,Máster,Abandono Voluntario,Hombres,0,1,1,0,,,5/1/2020
+2017,Alajuela,Máster: Unión Europea,Máster,Graduado,Hombres,1,0,0,0,3,71.43,5/1/2020
+2017,Alajuela,Químicas,Licenciatura o equivalente,Abandono Voluntario,Mujeres,0,1,0,0,,,5/1/2020
+2017,Alajuela,Químicas,Licenciatura o equivalente,Traslado a otra Universidad,Hombres,0,0,0,2,,,5/1/2020
+2017,Alajuela,Relaciones Laborales,Diplomatura o equivalente,Traslado a otra Universidad,Hombres,0,0,0,1,,,5/1/2020
+2017,Alajuela,Trabajo Social,Diplomatura o equivalente,Traslado a otra Universidad,Hombres,0,0,0,1,,,5/1/2020
+2017,Alajuela,Veterinaria,Licenciatura o equivalente,Abandono Voluntario,Hombres,0,1,0,0,,,5/1/2020
+2017,Alajuela,Veterinaria,Licenciatura o equivalente,Abandono Voluntario,Mujeres,0,1,0,0,,,5/1/2020
